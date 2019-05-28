@@ -1,0 +1,932 @@
+Log Started at Friday, November 09, 2018 12:22:07
+FileVersion: 1.1.3.1395
+ProductVersion: 1.1.3.1395
+
+--- CPU detection ---
+Number of system processors: 12
+Number of available processors: 12
+Processor 0:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.639743 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 1:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.630899 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 2:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.622066 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 3:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.614524 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 4:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.622876 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 5:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.620820 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 6:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.625594 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 7:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.627521 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 8:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.611929 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 9:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.616467 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 10:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.631625 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 11:
+CPU: GenuineIntel       Intel(R) Xeon(R) CPU E5-1650 v2 @ 3.50GHz
+Family: 6, Model: 14, Stepping: 4
+FPU: on-chip
+CPU Speed (estimated): 3491.636309 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+---------------------
+OS User name: 'amonthe'
+File System Initialization
+Stream Engine Initialization
+Script System Initialization
+<22:08> Loading system configuration
+<22:08> Lua cvar: (ca_ambient_light_intensity,0.2000000029802322)
+<22:08> Lua cvar: (ca_ambient_light_range,10)
+<22:08> Lua cvar: (ca_EnableDecals,0)
+<22:08> Lua cvar: (cl_installshieldversion,44)
+<22:08> Lua cvar: (cl_lazy_weapon,0)
+<22:08> Lua cvar: (cl_projectile_light,1)
+<22:08> Lua cvar: (cl_punkbuster,0)
+<22:08> Lua cvar: (cl_saveubipassword,0)
+<22:08> Lua cvar: (cl_weapon_fx,2)
+<22:08> Lua cvar: (cl_weapon_light,1)
+<22:08> Lua cvar: (d3d9_TextureFilter,BILINEAR)
+<22:08> Lua cvar: (e_active_shadow_maps_receving,0)
+<22:08> Lua cvar: (e_beach,1)
+<22:08> Lua cvar: (e_brushes_merging,1)
+<22:08> Lua cvar: (e_cgf_load_lods,1)
+<22:08> Lua cvar: (e_decals,0)
+<22:08> Lua cvar: (e_decals_life_time_scale,0.500000)
+<22:08> Lua cvar: (e_detail_texture_quality,1)
+<22:08> Setting e_EntitySuppressionLevel to 2
+<22:08> Lua cvar: (e_flocks,0)
+<22:08> Lua cvar: (e_light_maps_quality,2)
+<22:08> Lua cvar: (e_max_entity_lights,3)
+<22:08> Lua cvar: (e_obj_lod_ratio,5.000000)
+<22:08> Lua cvar: (e_overlay_geometry,0)
+<22:08> Lua cvar: (e_particles_lod,0.500000)
+<22:08> Lua cvar: (e_particles_max_count,512)
+<22:08> Lua cvar: (e_shadow_maps,0)
+<22:08> Lua cvar: (e_shadow_maps_from_static_objects,1)
+<22:08> Lua cvar: (e_shadow_maps_view_dist_ratio,10.000000)
+<22:08> Lua cvar: (e_shadow_spots,0)
+<22:08> Lua cvar: (e_stencil_shadows,0)
+<22:08> Lua cvar: (e_stencil_shadows_only_from_strongest_light,0)
+<22:08> Lua cvar: (e_use_global_fog_in_fog_volumes,0)
+<22:08> Lua cvar: (e_vegetation_min_size,2.200000)
+<22:08> Lua cvar: (e_vegetation_sprites_distance_ratio,0.900000)
+<22:08> Lua cvar: (es_CharZOffsetSpeed,2.0)
+<22:08> Lua cvar: (es_EnableCloth,1)
+<22:08> Setting ExitOnQuit to 1
+<22:08> Lua cvar: (fs_homepath,)
+<22:08> Lua cvar: (g_gore,2)
+<22:08> Lua cvar: (g_language,english)
+<22:09> Lua cvar: (g_playerprofile,default)
+<22:09> Lua cvar: (g_serverprofile,)
+<22:09> Lua cvar: (g_timezone,-5)
+<22:09> Lua cvar: (game_GliderBackImpulse,2.5f)
+<22:09> Lua cvar: (game_GliderDamping,0.15f)
+<22:09> Lua cvar: (game_GliderGravity,-0.1f)
+<22:09> Lua cvar: (game_GliderStartGravity,-0.8f)
+<22:09> Lua cvar: (i_dinputkeys,1)
+<22:09> Setting i_direct_input to 1
+<22:09> Lua cvar: (i_mouse_accel,0.0)
+<22:09> Lua cvar: (i_mouse_accel_max,100.0)
+<22:09> Lua cvar: (i_mouse_mirror,0)
+<22:09> Lua cvar: (i_mouse_smooth,0.0)
+<22:09> Lua cvar: (log_FileVerbosity,3)
+<22:09> Lua cvar: (log_Verbosity,0)
+<22:09> Lua cvar: (mp_model,objects/characters/mercenaries/merc_rear/merc_rear_mp.cgf)
+<22:09> Lua cvar: (p_color,1)
+<22:09> Lua cvar: (p_deathtime,30)
+<22:09> Lua cvar: (p_lightrange,15)
+<22:09> Lua cvar: (p_model,objects/characters/pmodels/hero/hero.cgf)
+<22:09> Lua cvar: (p_name,lamonthe)
+<22:09> Lua cvar: (r_Beams,1)
+<22:09> Lua cvar: (r_Brightness,0.500000)
+<22:09> Lua cvar: (r_checkSunVis,1)
+<22:09> Lua cvar: (r_ColorBits,32)
+<22:09> Lua cvar: (r_Contrast,0.500000)
+<22:09> Lua cvar: (r_CoronaFade,0.200000)
+<22:09> Lua cvar: (r_Coronas,1)
+<22:09> Lua cvar: (r_CoronaSizeScale,1.000000)
+<22:09> Lua cvar: (r_CryvisionType,1)
+<22:09> Lua cvar: (r_DepthBits,24)
+<22:09> Lua cvar: (r_DetailDistance,8.000000)
+<22:09> Lua cvar: (r_DetailNumLayers,1)
+<22:09> Lua cvar: (r_DetailTextures,1)
+<22:09> Lua cvar: (r_DisableSfx,0)
+<22:09> Lua cvar: (r_DisplayInfo,0)
+<22:09> Lua cvar: (r_Driver,Direct3D9)
+<22:09> Lua cvar: (r_EnhanceImage,1)
+<22:09> Lua cvar: (r_EnhanceImageAmount,1.000000)
+<22:09> Lua cvar: (r_EnvCMResolution,1)
+<22:09> Lua cvar: (r_EnvCMupdateInterval,0.200000)
+<22:09> Lua cvar: (r_EnvLCMupdateInterval,0.100000)
+<22:09> Lua cvar: (r_EnvLightCMSize,8)
+<22:09> Lua cvar: (r_EnvLighting,0)
+<22:09> Lua cvar: (r_EnvTexResolution,1)
+<22:09> Lua cvar: (r_EnvTexUpdateInterval,0.100000)
+<22:09> Lua cvar: (r_Flares,1)
+<22:09> Lua cvar: (r_FSAA,0)
+<22:09> Lua cvar: (r_FSAA_quality,0)
+<22:09> Lua cvar: (r_FSAA_samples,1)
+<22:09> Lua cvar: (r_Fullscreen,1)
+<22:09> Lua cvar: (r_Gamma,1.000000)
+<22:09> Lua cvar: (r_Glare,0)
+<22:09> Lua cvar: (r_GlareQuality,1)
+<22:09> Lua cvar: (r_HDRBrightOffset,6.000000)
+<22:09> Lua cvar: (r_HDRBrightThreshold,3.000000)
+<22:09> Lua cvar: (r_HDRLevel,0.600000)
+<22:09> Lua cvar: (r_HDRRendering,0)
+<22:09> Lua cvar: (r_HeatHaze,0)
+<22:09> Lua cvar: (r_Height,1050)
+<22:09> Lua cvar: (r_MotionBlur,0)
+<22:09> Lua cvar: (r_ProcFlares,1)
+<22:09> Lua cvar: (r_Quality_BumpMapping,2)
+<22:09> Lua cvar: (r_Quality_Reflection,0)
+<22:09> Lua cvar: (r_RenderMode,0)
+<22:09> Lua cvar: (r_ScopeLens_fx,0)
+<22:09> Lua cvar: (r_SelfShadow,0)
+<22:09> Lua cvar: (r_ShadersPrecache,1)
+<22:09> Lua cvar: (r_ShadersSave,0)
+<22:09> Lua cvar: (r_ShadowBlur,0)
+<22:09> Lua cvar: (r_StencilBits,8)
+<22:09> Lua cvar: (r_TexBumpResolution,0)
+<22:09> Lua cvar: (r_TexLMResolution,0)
+<22:09> Lua cvar: (r_TexQuality,0)
+<22:09> Lua cvar: (r_TexResolution,0)
+<22:09> Lua cvar: (r_TexSkyResolution,0)
+<22:09> Lua cvar: (r_Texture_Anisotropic_Level,1)
+<22:09> Lua cvar: (r_TexturesStreamPoolSize,0)
+<22:09> Lua cvar: (r_Vegetation_PerpixelLight,1)
+<22:09> Lua cvar: (r_VolumetricFog,0)
+<22:09> Lua cvar: (r_VSync,0)
+<22:09> Lua cvar: (r_WaterReflections,1)
+<22:09> Lua cvar: (r_WaterRefractions,1)
+<22:09> Lua cvar: (r_WaterUpdateFactor,0.010000)
+<22:09> Lua cvar: (r_Width,1680)
+<22:09> Lua cvar: (s_CapsCheck,0)
+<22:09> Lua cvar: (s_CompatibleMode,0)
+<22:09> Lua cvar: (s_DopplerEnable,0)
+<22:09> Lua cvar: (s_DopplerValue,1.0)
+<22:09> Lua cvar: (s_DummySound,0)
+<22:09> Lua cvar: (s_EnableSoundFX,1)
+<22:09> Lua cvar: (s_InactiveSoundIterationTimeout,1)
+<22:09> Lua cvar: (s_MaxActiveSoundSpots,100)
+<22:09> Lua cvar: (s_MaxHWChannels,28)
+<22:09> Lua cvar: (s_MaxSoundDist,500)
+<22:09> Lua cvar: (s_MinHWChannels,16)
+<22:09> Lua cvar: (s_MinRepeatSoundTimeout,200)
+<22:09> Lua cvar: (s_MusicEnable,1)
+<22:09> Lua cvar: (s_MusicMaxPatterns,12)
+<22:09> Lua cvar: (s_MusicStreamedData,0)
+<22:09> Lua cvar: (s_MusicVolume,0.5)
+<22:09> Lua cvar: (s_SampleRate,44100)
+<22:09> Lua cvar: (s_SFXVolume,1)
+<22:09> Lua cvar: (s_SoundEnable,1)
+<22:09> Lua cvar: (s_SpeakerConfig,5)
+<22:09> Lua cvar: (s_VisAreasPropagation,10)
+<22:09> Lua cvar: (sv_mapcyclefile,profiles/server/mapcycle.txt)
+<22:09> Lua cvar: (sv_maxrate,30000)
+<22:09> Lua cvar: (sv_maxrate_lan,100000)
+<22:09> Lua cvar: (sv_punkbuster,0)
+<22:09> Setting sys_firstlaunch to 0
+<22:09> Setting sys_script_debugger to 0
+<22:09> Setting sys_skiponlowspec to 1
+<22:09> Setting sys_spec to 3
+<22:09> Setting sys_SSInfo to 0
+<22:09> Setting sys_warnings to 0
+<22:09> Lua cvar: (ui_BackGroundVideo,1)
+<22:09> Lua cvar: (ui_EasyToolTip,0)
+<22:09> Lua cvar: (ui_RepeatDelay,200)
+<22:09> Lua cvar: (ui_RepeatSpeed,40)
+<22:09> Lua cvar: (ui_ToolTipDelay,1500)
+<22:09> Lua cvar: (ui_ToolTips,1)
+<22:09> Lua cvar: (ui_TriggerUIEvents,1)
+<22:09> Lua cvar: (ui_TriggerWidgetEvents,1)
+<22:09> Loading system configuration
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\localized\english.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\localized\english1.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\localized\english2.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\ccgf_cache.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\ccgf_cache1.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\effects.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\music.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\objects.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\objects1.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\objects2.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\objects3.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\scripts.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\scripts1.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\shaders.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\shaders1.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\sounds.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\textures.pak
+<22:09> Opening pack file f:\games\ubisoft\farcry\fcdata\textures1.pak
+<22:09> Network initialization
+<22:09> network hostname: MTL-BC980.ubisoft.org
+<22:09>   ip:10.128.40.200
+<22:09>   ip:192.168.56.1
+<22:09>   ip:192.168.99.1
+<22:09>   ip:192.168.31.1
+<22:09>   ip:192.168.21.1
+<22:09>   ip:192.168.198.1
+<22:09>   ip:192.168.200.1
+<22:09>   ip:192.168.14.1
+<22:09>   ip:192.168.32.1
+<22:09>   ip:192.168.30.1
+<22:09>   ip:192.168.203.1
+<22:09> Physics initialization
+<22:09> MovieSystem initialization
+<22:09> Renderer initialization
+<22:11> System: INFO: DirectX 10.0 installed
+<22:11> System: VideoCard Detected: nVidia (Unknown)
+<22:11> Direct3D9 driver is creating...
+<22:11> Best-match display mode: 1680x1050x32 (Error=8)
+<22:11> Creating D3D device (Adapter format: D3DFMT_X8R8G8B8, BackBuffer format: D3DFMT_A8R8G8B8, Depth format: D3DFMT_D24S8)
+<22:12> D3D Adapter: Driver name: nvd3dum.dll
+<22:12> D3D Adapter: Driver description: NVIDIA GeForce GTX 770
+<22:12> D3D Adapter: Driver version: 23.21.13.9135
+<22:12> D3D Adapter: Driver GUID: D7B71E3E-52C4-11CF-5D787E171BC2DA35
+<22:12> D3D Adapter: VendorId = 4318
+<22:12> D3D Adapter: DeviceId = 4484
+<22:12> D3D Adapter: SubSysId = 930297922
+<22:12> D3D Adapter: Revision = 161
+<22:12> D3D Detected: NVidia video card
+<22:12> D3D Driver: MaxTextureBlendStages   = 8
+<22:12> D3D Driver: MaxSimultaneousTextures = 8
+<22:12>   Using '8888' pixel texture format
+<22:12>   Using 'Alpha8' pixel texture format
+<22:12>   Using 'Alpha8Lum8' pixel texture format
+<22:12>   Using 'V16U16' pixel texture format
+<22:12>   Using 'Depth24' pixel texture format
+<22:12>   Using 'BumpV8U8' pixel texture format
+<22:12>   Using 'BumpQ8W8U8V8' pixel texture format
+<22:12>   Using 'BumpX8L8U8V8' pixel texture format
+<22:12>   Using '3Dc' pixel texture format
+<22:12>   Using 'DXT1' pixel texture format
+<22:12>   Using 'DXT3' pixel texture format
+<22:12>   Using 'DXT5' pixel texture format
+<22:12> D3D Driver: Supports trilinear texture filtering
+<22:12> D3D Driver: Allowed projected textures with Env. bump mapping
+<22:12> D3D Driver: Supports alpha palettes
+<22:12> D3D Driver: Supports range-based fog
+<22:12> D3D Driver: Supports eye-relative fog
+<22:12> D3D Driver: Supports anisotropic filtering
+<22:12> D3D Driver: Supports LOD biasing
+<22:12> D3D Driver: Supports Z biasing
+<22:12> D3D Driver: Supports scissor test
+<22:12> D3D Driver: Supports stream offset
+<22:12> D3D Driver: Supports non-power-of-2 textures
+<22:12> D3D Driver: Supports D3DTOP_ADDSIGNED2X TextureOp
+<22:12> D3D Driver: Supports D3DTOP_BUMPENVMAP TextureOp
+<22:12> D3D Driver: Supports D3DTOP_BUMPENVMAPLUMINANCE TextureOp
+<22:12> D3D Driver: Supports D3DTOP_DOTPRODUCT3 TextureOp
+<22:12> D3D Driver: Supports D3DTOP_MODULATEALPHA_ADDCOLOR TextureOp
+<22:12> D3D Driver: Supports D3DTOP_MODULATECOLOR_ADDALPHA TextureOp
+<22:12> D3D Driver: Supports D3DTOP_ADD TextureOp
+<22:12> D3D Driver: Supports MaxAnisotropy level 16
+<22:12> D3D Driver: Supports Stencil shadows
+<22:12> D3D Driver: Supports Two-Sided stencil
+<22:12> D3D Driver: Textures (0x0)-(16384x16384), Max aspect 16384
+<22:12> Apply BILINEAR texture filtering
+<22:12> Warning: Disabled 3DC for NVidia card
+<22:12>  ****** D3D9 CryRender Stats ******
+<22:12>  Driver description: NVIDIA GeForce GTX 770
+<22:12>  Full stats: HAL (pure hw vp): NVIDIA GeForce GTX 770
+<22:12>  Hardware acceleration: Yes
+<22:12>  Full scene AA: Disabled
+<22:12>  Projective EMBM: Enabled
+<22:12>  Detail textures: Enabled
+<22:12>  Z Buffer Locking: Enabled
+<22:12>  Multitexturing: Supported (8 textures)
+<22:12>  Use bumpmapping : Enabled (DOT3)
+<22:12>  Use paletted textures : Disabled
+<22:12>  Current Resolution: 1680x1050x32 Full Screen
+<22:12>  Maximum Resolution: 1920x1200
+<22:12>  Maximum Texture size: 16384x16384 (Max Aspect: 16384)
+<22:12>  Texture filtering type: BILINEAR
+<22:12>  HDR Rendering: Disabled
+<22:12>  MRT Rendering: Enabled
+<22:12>  Occlusion queries: Supported
+<22:12>  Geometry instancing: Supported
+<22:12>  NormalMaps compression: V8U8
+<22:12>  Gamma control: Hardware
+<22:12>  Vertex Shaders version 3.0
+<22:12>  Pixel Shaders version 3.0
+<22:12>  Use Hardware Shaders for NV4x GPU
+<22:12>  Pixel shaders usage: PS1.1 only
+<22:12>  Vertex shaders usage: VS1.1 only
+<22:12>  Shadow maps type: Depth maps
+<22:12>  Stencil shadows type: Two sided
+<22:12>  Lighting quality: High
+<22:12>  *****************************************
+
+<22:12> Init Shaders
+<22:12>   7 Shader files found.
+
+<22:13>   94 Shader files found.
+
+<22:13> Construct Shader '<Default>'...<22:13> ok
+<22:13> Construct Shader 'ZBuffPass'...<22:13> ok
+<22:13> Construct Shader 'ShadowMap'...<22:13> ok
+<22:13> Compile System Shader 'StateNoCull'...<22:13> ok
+<22:13> Compile System Shader 'HDRProcess'...<22:13> ok
+<22:13> Compile System Shader 'SunFlares'...<22:13> ok
+<22:13>   2 Sun flares was parsed
+<22:13> Compile System Shader 'LightStyles'...<22:13> ok
+<22:13>   34 Light styles was parsed
+<22:13> Compile Glare Shader ...
+<22:13> Compile System HW Shader 'CGVProgramms'...<22:13> ok
+<22:13> Compile System HW Shader 'CGPShaders'...<22:13> ok
+<22:13> Compile System Shader 'TemplFog'...<22:13> ok
+<22:13> Compile System Shader 'TemplVFog'...<22:13> Fail.
+<22:13> Compile System Shader 'TemplFog_FP'...<22:13> ok
+<22:13> Compile System Shader 'TemplFogCaustics'...<22:13> ok
+<22:13> Compile System Shader 'TemplVFogCaustics'...<22:13> Fail.
+<22:13> Compile System Shader 'TemplFogCaustics_FP'...<22:13> ok
+<22:14> Console initialization
+<22:14> Time initialization
+<22:14> Input initialization
+<22:14> Initializing Direct Input
+<22:14> Direct Input initialized (CryInputDLL)
+<22:14> Initializing Keyboard
+<22:14> Keyboard initialized
+<22:14> Initializing mouse
+<22:14> Mouse initialized
+<22:14> Found 16 joystick devices
+<22:14> Joystick 0 not plugged in!
+<22:14> Joystick 1 not plugged in!
+<22:14> Joystick 2 not plugged in!
+<22:14> Joystick 3 not plugged in!
+<22:14> Joystick 4 not plugged in!
+<22:14> Joystick 5 not plugged in!
+<22:15> Joystick 6 not plugged in!
+<22:15> Joystick 7 not plugged in!
+<22:15> Joystick 8 not plugged in!
+<22:15> Joystick 9 not plugged in!
+<22:15> Joystick 10 not plugged in!
+<22:15> Joystick 11 not plugged in!
+<22:15> Joystick 12 not plugged in!
+<22:15> Joystick 13 not plugged in!
+<22:15> Joystick 14 not plugged in!
+<22:15> Joystick 15 not plugged in!
+<22:15> Joystick initialized
+<22:15> initializing Key/name Mapping
+<22:15> Sound initialization
+<22:15> ------------------------------------------CRYSOUND VERSION=3.610000
+<22:15> CRYSOUND Driver: Primary Sound Driver
+<22:15> Total number of channels available: 284
+<22:15> Set speaker mode stereo
+<22:15> Font initialization
+<22:15> AI initialization
+<22:15> Entity system initialization
+<22:15> Initializing Animation System
+<22:15> CPU capabilities: <22:15>  FPU<22:15>  VME<22:15>  DE<22:15>  PSE<22:15>  TSC<22:15>  MSR<22:15>  PAE<22:15>  MCE<22:15>  CX8<22:15>  APIC<22:15>  SEP<22:15>  MTRR<22:15>  PGE<22:15>  MCA<22:15>  CMOV<22:15>  PAT<22:15>  PSE-36<22:15>  CLFSH<22:15>  DS<22:15>  ACPI<22:15>  MMX<22:15>  FXSR<22:15>  SSE<22:15>  SSE2<22:15>  SS<22:15>  HTT<22:15>  TM<22:15>  PBE<22:15>  ok
+<22:15> Initializing 3D Engine
+<22:16> Removing lights ...
+<22:16> Deleting visareas ...
+<22:16> Deleting terrain ...
+<22:16> ObjManager shutdown ...
+<22:16> Initializing Script Bindings
+<22:16> Loading ...ercenaries\merc_rear\merc_rear_mp.cgf
+<22:16> ERROR: lod 1 file merc_rear_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<22:16> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<22:16> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<22:16> ERROR: lod 2 file merc_rear_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<22:16> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<22:16> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<22:17> WARNING: Couldn't create CG pixel program 'CGRCShadowDepth_3Samples_EnvLight'<22:17>  Anims<22:17> :<22:17> done;<22:17>  precomputing<22:17> .<22:17> .<22:17> .<22:17> done.
+<25:00> Loading banned IP list...
+<25:00> ERROR: failed to open bannedip.txt for reading!
+<25:00> Loading ...ercenaries\merc_rear\merc_rear_mp.cgf
+<25:00> ERROR: lod 1 file merc_rear_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<25:00> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<25:00> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<25:00> ERROR: lod 2 file merc_rear_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<25:00> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<25:00> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<25:00> WARNING: Couldn't create CG pixel program 'CGRCShadowDepth_3Samples_EnvLight'
+<25:00> WARNING: Couldn't create CG pixel program 'CGRCBump_DiffSpec_SingleLight_HP_Atten_GlossAlpha'<25:01>  Anims<25:01> :<25:01> done;<25:01>  precomputing<25:01> .<25:01> .<25:01> .<25:01> done.
+<25:01> Loading Objects\default.cgf
+<25:01> ---------------------- Loading level Levels/mp_surf, mission FFA ----------------------------------
+<25:03> Loading materials ...
+<25:03> WARNING: Couldn't create CG pixel program 'CGRCBump_DiffSpec_SingleLight_HP_Atten'<25:05>  391 mats loaded
+<25:06> Loading Objects\Vehicles\buggy\piece10.cgf
+<25:07> Loading Objects\Vehicles\buggy\piece06.cgf
+<25:07> Loading Objects\Vehicles\buggy\piece02.cgf
+<25:07> Loading Objects\Vehicles\buggy\buggy_debris02.cgf
+<25:07> Loading Objects\vehicles\buggy\buggy_debris01.cgf
+<25:07> Loading Objects\vehicles\buggy\buggy_debris06.cgf
+<25:07> Loading Objects\vehicles\buggy\buggy_debris12.cgf
+<25:07> Loading Objects\glm\ww2_indust_set1\GK_Wall\wall_piece01.cgf
+<25:07> Loading Objects\Vehicles\buggy\piece04.cgf
+<25:07> Loading Objects\Buildings\M03\Fort_ruin\concreterubble01.cgf
+<25:07> Loading Objects\Buildings\M03\Fort_ruin\concreterubble02.cgf
+<25:07> Loaded 205 Particle Effects from Effects\Explosions.prt.
+<25:07> Loaded 31 Particle Effects from Effects\Water.prt.
+<25:07> Loaded 29 Particle Effects from Effects\Smoke.prt.
+<25:07> Loaded 3 Particle Effects from Effects\Blood.prt.
+<25:07> Loading Objects\Vehicles\buggy\buggy_debris03.cgf
+<25:07> Loading Objects\Weapons\effects\concrete_piece.cgf
+<25:07> Loading Objects\Vehicles\buggy\buggy_debris07.cgf
+<25:07> Loaded 96 Particle Effects from Effects\Bullet.prt.
+<25:07> Loaded 16 Particle Effects from Effects\Misc.prt.
+<25:07> Loaded 28 Particle Effects from Effects\Fire.prt.
+<25:07> Loaded 0 Particle Effects from Levels/mp_surf/particles.lst.
+<25:08> Loading Objects\Natural\leafy_green_paradise\lgp_bottlebrush_b.cgf
+<25:10> Loading Objects\Natural\coastal_objects\cst_large_palm_leaning_a.cgf
+<25:10> Loading Objects\Natural\coastal_objects\cst_large_palm_a.cgf
+<25:10> Loading Objects\Natural\coastal_objects\cst_large_palm_a_lod1.cgf
+<25:11> Loading Objects\Natural\coastal_objects\cst_large_palm_c.cgf
+<25:11> Loading Objects\Natural\coastal_objects\cst_large_palm_c_lod1.cgf
+<25:11> Loading Objects\Natural\coastal_objects\cst_large_palm_b.cgf
+<25:11> Loading Objects\Natural\coastal_objects\cst_large_palm_leaning_a_90deg.cgf
+<25:12> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_c.cgf
+<25:12> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_b.cgf
+<25:12> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_a.cgf
+<25:12> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_bb.cgf
+<25:12> Loading Objects\Natural\basic_jungle\bsc_tree_small_curved_c.cgf
+<25:12> Loading Objects\Natural\basic_jungle\bsc_tree_small_curved_c_lod1.cgf
+<25:12> Loading Objects\Natural\coastal_objects\cst_large_palm_leaning_b.cgf
+<25:13> Loading Objects\Natural\leafy_green_paradise\lgp_banana_bush_a.cgf
+<25:13> Loading Objects\Natural\leafy_green_paradise\lgp_banana_bush_b.cgf
+<25:13> Loading Objects\Natural\Bushes\oldforest_beach_bush2.cgf
+<25:13> Loading Objects\Natural\leafy_green_paradise\lgp_canopytree_aa.cgf
+<25:13> Loading Objects\Natural\leafy_green_paradise\lgp_canopytree_aa_lod1.cgf
+<25:13> Loading Objects\Natural\leafy_green_paradise\lgp_forestpalm_a.cgf
+<25:14> Loading Objects\Natural\leafy_green_paradise\lgp_forestpalm_short_b.cgf
+<25:14> Loading Objects\Natural\underwater\und_roundplant_b.cgf
+<25:14> Loading Objects\Natural\underwater\und_flexible_b.cgf
+<25:14> Loading Objects\Natural\underwater\und_bump_a.cgf
+<25:14> Loading Objects\Natural\underwater\und_bump_b.cgf
+<25:14> Loading Objects\Natural\ancient_jungle\anc_tree_vines_a.cgf
+<25:15> Loading Objects\Natural\underwater\und_bump_c.cgf
+<25:15> Loading brushes ... 
+<25:15> Loading Objects\outdoor\human_camp\cratemetalclosesmall.cgf
+<25:15> Loading Objects\outdoor\islanders_structures\hut_onwater_walkway_pilla_s02.cgf
+<25:15> Loading Objects\outdoor\fortifications\sandbag_circle_tall.cgf
+<25:15> Loading Objects\glm\ww2_indust_set1\steps\steptrim_base100z.cgf
+<25:15> Loading Objects\indoor\boxes\crates\crate_covered.cgf
+<25:15> Loading Objects\glm\ww2_indust_set1\floors\floor2x2y_dark.cgf
+<25:15> Loading Objects\natural\coastal_objects\cst_rock_colourfull_b.cgf
+<25:15> Loading Objects\natural\coastal_objects\cst_rock_colourfull_b_lod1.cgf
+<25:15> Loading Objects\natural\coastal_objects\cst_rock_colourfull_b_lod2.cgf
+<25:15> Loading Objects\indoor\props\storage\shelve_indoor_2m.cgf
+<25:15> Loading Objects\glm\ww2_indust_set1\steps\steptrim_base100z_b.cgf
+<25:15> Loading Objects\glm\ww2_indust_set1\steps\steptrim_2x50z.cgf
+<25:15> Loading Objects\weapons\minigun\tripod_minigun_part1.cgf
+<25:15> Loading Objects\indoor\boxes\crates\crate2.cgf
+<25:15> Loading Objects\vehicles\gunboat\gunboat.cgf
+<25:15> Loading Objects\vehicles\gunboat\gunboat_lod1.cgf
+<25:15> Loading Objects\glm\ww2_indust_set1\lights\light_indust2\light_indust2.cgf
+<25:15> Loading Objects\outdoor\islanders_structures\hut_onwater__gk_plate_4m_2.cgf
+<25:15> Loading Objects\indoor\boxes\crates\barrel_oil.cgf
+<25:15> Loading Objects\natural\coastal_objects\cst_rock_colourfull_a.cgf
+<25:15> Loading Objects\natural\coastal_objects\cst_rock_colourfull_a_lod1.cgf
+<25:15> Loading Objects\natural\coastal_objects\cst_rock_colourfull_a_lod2.cgf
+<25:15> Loading Objects\vehicles\gunboat\gunboat_rack.cgf
+<25:15> Loading Objects\outdoor\human_camp\camo_net.cgf
+<25:15> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_large.cgf
+<25:15> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_large_lod1.cgf
+<25:15> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_large_lod2.cgf
+<25:15> Loading Objects\weapons\minigun\tripod_with_ammo_a.cgf
+<25:15> Loading Objects\outdoor\merc_structures\wooden_bridge_long.cgf
+<25:15> Loading Objects\outdoor\merc_structures\voltagehouse.cgf
+<25:15> Loading Objects\indoor\boxes\crates\ammo_crate.cgf
+<25:15> Loading Objects\indoor\boxes\crates\ammo_crate_lod1.cgf
+<25:15> Loading Objects\indoor\boxes\crates\ammo_crate_lod2.cgf
+<25:15> Loading Objects\vehicles\zero_aircraft\zero_underwater_cockpit.cgf
+<25:15> Loading Objects\vehicles\zero_aircraft\zero_underwater_cockpit_lod1.cgf
+<25:15> Loading Objects\vehicles\zero_aircraft\zero_underwater_cockpit_lod2.cgf
+<25:15> Loading Objects\buildings\m03\compound_area\coa_storage.cgf
+<25:15> Loading Objects\buildings\m03\compound_area\coa_radio_tower.cgf
+<25:15> Loading Objects\buildings\m03\compound_area\coa_radio_tower_lod1.cgf
+<25:15> Loading Objects\buildings\m03\compound_area\coa_radio_tower_lod2.cgf
+<25:15> Loading Objects\outdoor\towers\aircontrol_tower.cgf
+<25:15> Brushes loaded: 28 models, 219 instances, 0 custom materials
+<25:15> Loading lightmaps ...
+<25:16> WARNING: Error: CBrush::SetLightmap: Object at position (967.289551, 1055.383911, 19.111288) has texture mismatch (6120 coordinates supplied, 6900 required)
+
+<25:16>  [AISYSTEM] Initialization started.
+<25:16>  [AISYSTEM] Initialization finished.
+<25:16> Loading Objects\Weapons\shells\snipershell.cgf
+<25:16> Loading Objects\Weapons\aw50\aw50_bind.cgf
+<25:16> Loading Objects\Weapons\aw50\aw50_bind_lod1.cgf
+<25:16> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [551 agains 551], there is no sense to use it
+<25:16> Loading CCGF_CACHE\objects\weapons\aw50\aw50.ccg
+<25:16> <Lua>  BasicWeapon Init SniperRifle
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_AW50_fpv.cgf
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_AW50_tpv.cgf
+<25:16> <Lua>  BasicWeapon Init SniperRifle
+<25:16> Loading Objects\Weapons\pancor\pancor_bind.cgf
+<25:16> Loading Objects\Weapons\pancor\pancor_bind_lod1.cgf
+<25:16> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [512 agains 512], there is no sense to use it
+<25:16> Loading ...CHE\objects\weapons\pancor\pancor.ccg
+<25:16> <Lua>  BasicWeapon Init Shotgun
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_Pancor_fpv.cgf
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_Pancor_tpv.cgf
+<25:16> <Lua>  BasicWeapon Init Shotgun
+<25:16> Loading Objects\Weapons\shells\rifleshell.cgf
+<25:16> Loading Objects\Weapons\trail.cgf
+<25:16> Loading Objects\Weapons\M249\M249_bind.cgf
+<25:16> Loading Objects\Weapons\M249\M249_bind_lod1.cgf
+<25:16> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [801 agains 801], there is no sense to use it
+<25:16> Loading CCGF_CACHE\objects\weapons\m249\m249.ccg
+<25:16> ERROR: CControllerManager::LoadAnimation: file loading Objects\Weapons\M249\.\m249_fidget11.caf file not found
+<25:16> ERROR: CControllerManager::LoadAnimation: file loading Objects\Weapons\M249\.\m249_fidget12.caf file not found
+<25:16> <Lua>  BasicWeapon Init M249
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_m4_fpv.cgf
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_m4_tpv.cgf
+<25:16> <Lua>  BasicWeapon Init M249
+<25:16> <Lua>  BasicWeapon Init MutantMG
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_coverrl_tpv.cgf
+<25:16> <Lua>  BasicWeapon Init MutantMG
+<25:16> Loading Objects\Weapons\wrench\wrench_bind.cgf
+<25:16> Loading Objects\Weapons\wrench\wrench_bind_lod1.cgf
+<25:16> Loading ...CHE\objects\weapons\wrench\wrench.ccg
+<25:16> <Lua>  BasicWeapon Init Wrench
+<25:16> <Lua>  BasicWeapon Init Wrench
+<25:16> Loading Objects\Weapons\health_pack\healthpack_bind.cgf
+<25:16> Loading ...s\weapons\health_pack\health_pack.ccg
+<25:16> WARNING: Connectivity warning: there are 152 open edges (1652 closed, 1152 faces, 0 planes, 0 vertices)
+<25:16> <Lua>  BasicWeapon Init MedicTool
+<25:16> <Lua>  BasicWeapon Init MedicTool
+<25:16> Loading Objects\Weapons\trail_mounted.cgf
+<25:16> <Lua>  BasicWeapon Init MG
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_MG_fpv.cgf
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_MG_tpv.cgf
+<25:16> <Lua>  BasicWeapon Init MG
+<25:16> Loading Objects\Weapons\MutantShotgun\MutantShotgun_bind.cgf
+<25:16> <Lua>  BasicWeapon Init MutantShotgun
+<25:16> <Lua>  BasicWeapon Init MutantShotgun
+<25:16> <Lua>  BasicWeapon Init VehicleMountedRocket
+<25:16> <Lua>  BasicWeapon Init VehicleMountedRocket
+<25:16> <Lua>  BasicWeapon Init VehicleMountedMG
+<25:16> <Lua>  BasicWeapon Init VehicleMountedMG
+<25:16> Loading Objects\Weapons\shells\smgshell.cgf
+<25:16> Loading Objects\Weapons\de\de_bind.cgf
+<25:16> Loading Objects\Weapons\de\de_bind_lod1.cgf
+<25:16> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [394 agains 394], there is no sense to use it
+<25:16> Loading CCGF_CACHE\objects\weapons\de\de.ccg
+<25:16> <Lua>  BasicWeapon Init Falcon
+<25:16> Loading Objects\Weapons\Muzzle_flash\mf_DE_fpv.cgf
+<25:17> Loading Objects\Weapons\Muzzle_flash\mf_DE_tpv.cgf
+<25:17> <Lua>  BasicWeapon Init Falcon
+<25:17> Loading objects\weapons\machete\machete_bind.cgf
+<25:17> Loading objects\weapons\machete\machete_bind_lod1.cgf
+<25:17> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [395 agains 395], there is no sense to use it
+<25:17> Loading ...E\objects\weapons\machete\machete.ccg
+<25:17> <Lua>  BasicWeapon Init Machete
+<25:17> <Lua>  BasicWeapon Init Machete
+<25:17> <Lua>  BasicWeapon Init VehicleMountedRocketMG
+<25:17> <Lua>  BasicWeapon Init VehicleMountedRocketMG
+<25:17> Loading Objects\Weapons\ag36\ag36_bind.cgf
+<25:17> Loading Objects\Weapons\ag36\ag36_bind_lod1.cgf
+<25:17> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [1054 agains 1054], there is no sense to use it
+<25:17> Loading CCGF_CACHE\objects\weapons\ag36\ag36.ccg
+<25:17> <Lua>  BasicWeapon Init AG36
+<25:17> Loading Objects\Weapons\Muzzle_flash\mf_ag36_fpv.cgf
+<25:17> Loading Objects\Weapons\Muzzle_flash\mf_ag36_tpv.cgf
+<25:17> <Lua>  BasicWeapon Init AG36
+<25:17> Loading Objects\Weapons\P90\P90_bind.cgf
+<25:17> Loading Objects\Weapons\P90\P90_bind_lod1.cgf
+<25:17> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [627 agains 627], there is no sense to use it
+<25:17> Loading CCGF_CACHE\objects\weapons\p90\p90.ccg
+<25:17> <Lua>  BasicWeapon Init P90
+<25:17> Loading Objects\Weapons\Muzzle_flash\mf_P90_fpv.cgf
+<25:17> Loading Objects\Weapons\Muzzle_flash\mf_p90_tpv.cgf
+<25:17> <Lua>  BasicWeapon Init P90
+<25:17> Loading Objects\Weapons\MP5\MP5_bind.cgf
+<25:17> Loading Objects\Weapons\MP5\MP5_bind_lod1.cgf
+<25:17> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [757 agains 757], there is no sense to use it
+<25:17> Loading CCGF_CACHE\objects\weapons\mp5\mp5.ccg
+<25:17> <Lua>  BasicWeapon Init MP5
+<25:17> <Lua>  BasicWeapon Init MP5
+<25:17> <Lua>  BasicWeapon Init EngineerTool
+<25:17> <Lua>  BasicWeapon Init EngineerTool
+<25:17> Loading Objects\Weapons\oicw\oicw_bind.cgf
+<25:17> Loading Objects\Weapons\oicw\oicw_bind_lod1.cgf
+<25:17> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [771 agains 771], there is no sense to use it
+<25:17> Loading CCGF_CACHE\objects\weapons\oicw\oicw.ccg
+<25:17> <Lua>  BasicWeapon Init OICW
+<25:17> Loading Objects\Weapons\Muzzle_flash\mf_OICW_fpv.cgf
+<25:17> Loading Objects\Weapons\Muzzle_flash\mf_OICW_tpv.cgf
+<25:17> <Lua>  BasicWeapon Init OICW
+<25:17> <Lua>  BasicWeapon Init VehicleMountedAutoMG
+<25:17> <Lua>  BasicWeapon Init VehicleMountedAutoMG
+<25:17> Loading Objects\Weapons\scouttool\scouttool_bind.cgf
+<25:17> Loading ...jects\weapons\scouttool\scouttool.ccg
+<25:17> <Lua>  BasicWeapon Init ScoutTool
+<25:17> <Lua>  BasicWeapon Init ScoutTool
+<25:17> Loading Objects\Weapons\RL\RL_bind.cgf
+<25:17> Loading Objects\Weapons\RL\RL_bind_lod1.cgf
+<25:17> Loading CCGF_CACHE\objects\weapons\rl\rl.ccg
+<25:17> WARNING: Connectivity warning: there are 31 open edges (25 closed, 27 faces, 0 planes, 0 vertices)
+<25:17> <Lua>  BasicWeapon Init RL
+<25:17> <Lua>  BasicWeapon Init RL
+<25:17> Loading Objects\Weapons\M4\M4_bind.cgf
+<25:17> Loading Objects\Weapons\M4\M4_bind_lod1.cgf
+<25:17> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [735 agains 735], there is no sense to use it
+<25:17> Loading CCGF_CACHE\objects\weapons\m4\m4.ccg
+<25:17> <Lua>  BasicWeapon Init M4
+<25:17> <Lua>  BasicWeapon Init M4
+<25:17> Loading Objects\Weapons\Shocker\Shocker_bind.cgf
+<25:17> Loading ...E\objects\weapons\shocker\shocker.ccg
+<25:17> <Lua>  BasicWeapon Init Shocker
+<25:17> Loading Objects\Weapons\Muzzle_flash\mf_shocker_fpv.cgf
+<25:17> <Lua>  BasicWeapon Init Shocker
+<25:17> Loading Objects\Weapons\coverrl\coverrl_bind.cgf
+<25:17> <Lua>  BasicWeapon Init COVERRL
+<25:17> <Lua>  BasicWeapon Init COVERRL
+<25:17> <Lua>  BasicWeapon Init Mortar
+<25:17> <Lua>  BasicWeapon Init Mortar
+<25:17> Loading objects\weapons\Rockets\rocket.cgf
+<25:17> Loading objects\weapons\Grenades\Grenade.cgf
+<25:17> Loading Objects\Pickups\explosive\explosive_nocount.cgf
+<25:17> Loading objects\natural\rocks\throwrock.cgf
+<25:17> Loading Objects\pickups\ammo\sniperammo.cgf
+<25:17> Loading Objects\pickups\ammo\ammo.cgf
+<25:17> Loading Objects\pickups\health\medikit.cgf
+<25:17> Loading Objects\pickups\ammo\rockets.cgf
+<25:17> Loading Objects\pickups\ammo\ammo_smg.cgf
+<25:17> Loading Objects\pickups\ammo\ammo_20mm.cgf
+<25:17> Loading Objects\pickups\grenade\grenade_frag_pickup.cgf
+<25:17> Loading Objects\pickups\ammo\shotgunammo.cgf
+<25:17> Loading objects\Vehicles\gunboat\gunboat.cgf
+<25:17> Loading objects\Vehicles\gunboat\gunboat_lod1.cgf
+<25:17> Loading objects\Vehicles\gunboat\gunboat_wreck.cgf
+<25:17> Loading objects\Vehicles\gunboat\gunboat_wreck_lod1.cgf
+<25:17> Loading objects\Vehicles\gunboat\gunboat_wreck_lod2.cgf
+<25:17> Loading Objects\pickups\ammo\ammo_pistol.cgf
+<25:18> Loading objects\pickups\ammo\ammo_40mm.cgf
+<25:18> Loading Objects\pickups\binoculars\binocular.cgf
+<25:18> Loading Objects\pickups\armor\bodyarmor.cgf
+<25:18> [AISYSTEM] Verifying BAI file version
+<25:18> [AISYSTEM] Reading BBOX
+<25:18> [AISYSTEM] Reading node descriptors
+<25:18> [AISYSTEM] Creating graph nodes
+<25:18> [AISYSTEM] Reading vertex list
+<25:18> [AISYSTEM] Reading links
+<25:18> [AISYSTEM] Reconnecting links (might take some time:)
+<25:18> [AISYSTEM] Verifying BAI file version
+<25:18> [AISYSTEM] Reading BBOX
+<25:18> [AISYSTEM] Reading node descriptors
+<25:18> [AISYSTEM] Creating graph nodes
+<25:18> [AISYSTEM] Reading vertex list
+<25:18> [AISYSTEM] Reading links
+<25:18> [AISYSTEM] Reconnecting links (might take some time:)
+<25:18> [AISYSTEM] Triangulation finished.
+<25:18>  Level mp_surf loaded in 18.139 seconds
+<25:18> Precaching level ... <25:18> done
+<25:58> Loading ...s\characters\pmodels\hero\hero_mp.ccg
+<25:58> WARNING: Connectivity warning: there are 1 open edges (3550 closed, 2367 faces, 0 planes, 0 vertices)
+<26:12> Loading ...cenaries\merc_scout\merc_scout_mp.cgf
+<26:12> ERROR: lod 1 file merc_scout_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<26:12> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<26:12> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<26:12> ERROR: lod 2 file merc_scout_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<26:12> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<26:12> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.<26:12>  Anims<26:12> :<26:12> done;<26:12>  precomputing<26:12> .<26:12> .<26:12> .<26:12> done.
+<26:32> <Lua> papazark killed lamonthe with AG36
+<27:07> <Lua> theprophete killed lamonthe with Rocket
+<27:18> <Lua> theprophete killed lamonthe with Rocket
+<27:29> <Lua> theprophete killed lamonthe with Rocket
+<27:47> <Lua> theprophete killed lamonthe with Rocket
+<28:10> <Lua> theprophete killed papazark with Rocket
+<28:49> <Lua> theprophete killed papazark with Rocket
+<29:28> <Lua> papazark killed lamonthe with AG36
+<29:36> <Lua> papazark killed lamonthe with AG36
+<30:07> <Lua> theprophete killed papazark with SniperRifle
+<30:34> <Lua> theprophete killed lamonthe with SniperRifle
+<31:04> <Lua> theprophete killed lamonthe with SniperRifle
+<31:08> <Lua> papazark killed theprophete with M4
+<31:34> <Lua> theprophete killed papazark with OICW
+<31:47> <Lua> lamonthe killed theprophete with VehicleRocket
+<32:14> <Lua> papazark killed theprophete with AG36Grenade
+<32:14> <Lua> theprophete killed papazark with Rocket
+<32:20> <Lua> lamonthe killed papazark with VehicleRocket
+<32:38> <Lua> theprophete killed cyap with SniperRifle
+<32:46> <Lua> cyap killed lamonthe with AG36
+<32:57> <Lua> cyap killed papazark with AG36
+<33:18> <Lua> cyap killed papazark with AG36Grenade
+<33:37> <Lua> papazark killed cyap with Falcon
+<33:47> <Lua> cyap killed lamonthe with M4
+<34:14> <Lua> lamonthe killed papazark with SniperRifle
+<34:16> <Lua> theprophete killed lamonthe with SniperRifle
+<34:33> <Lua> theprophete killed lamonthe with SniperRifle
+<35:06> <Lua> lamonthe killed papazark with AG36
+<35:11> <Lua> theprophete killed lamonthe with SniperRifle
+<35:31> <Lua> cyap killed theprophete with VehicleRocket
+<35:47> <Lua> lamonthe killed theprophete with OICW
+<36:05> <Lua> theprophete killed lamonthe with Rocket
+<36:34> <Lua> cyap killed theprophete with VehicleMountedRocketMG
+<36:51> <Lua> cyap killed papazark with VehicleRocket
+<37:13> <Lua> papazark killed theprophete with P90
+<37:38> <Lua> papazark killed theprophete with P90
+<37:45> <Lua> papazark killed theprophete with P90
+<38:03> <Lua> lamonthe killed itself
+<38:32> <Lua> lamonthe killed theprophete with SniperRifle
+<38:40> <Lua> cyap killed theprophete with AG36Grenade
+<38:59> <Lua> theprophete killed cyap with M4
+<39:30> <Lua> papazark killed lamonthe with P90
+<39:37> <Lua> theprophete killed cyap with AG36
+<40:09> <Lua> papazark killed lamonthe with P90
+<40:20> <Lua> cyap killed lamonthe with M4
+<40:41> <Lua> cyap killed theprophete with M4
+<40:49> <Lua> cyap killed theprophete with M4
+<41:57> <Lua> theprophete killed cyap with VehicleRocket
+<42:03> <Lua> papazark killed theprophete with Boat
+<42:07> <Lua> cyap killed lamonthe with M4
+<42:29> <Lua> cyap killed lamonthe with M4
+<42:55> <Lua> cyap killed lamonthe with M4
+<43:14> <Lua> cyap killed theprophete with M4
+<43:22> <Lua> theprophete killed cyap with OICW
+<43:39> <Lua> theprophete killed lamonthe with OICW
+<43:55> <Lua> papazark killed lamonthe with VehicleRocket
+<44:09> <Lua> cyap killed lamonthe with M4
+<44:36> <Lua> papazark killed cyap with VehicleRocket
+<44:57> <Lua> papazark killed theprophete with VehicleMountedRocketMG
+<45:12> <Lua> papazark killed cyap with VehicleRocket
+<45:32> <Lua> lamonthe killed cyap with SniperRifle
+<45:43> <Lua> papazark killed lamonthe with VehicleRocket
+<45:56> <Lua> theprophete killed lamonthe with OICWGrenade
+<46:20> <Lua> lamonthe killed theprophete with AG36
+<46:34> <Lua> lamonthe killed theprophete with AG36
+<46:47> <Lua> theprophete killed cyap with M4
+<47:05> <Lua> lamonthe killed cyap with AG36
+<47:17> <Lua> lamonthe killed theprophete with AG36
+<47:17> <Lua> cyap killed lamonthe with SniperRifle
+<47:26> <Lua> cyap killed papazark with SniperRifle
+<47:27> <Lua> lamonthe killed cyap with Machete
+<47:38> <Lua> papazark killed lamonthe with Machete
+<47:42> <Lua> cyap killed theprophete with AG36
+<47:56> <Lua> theprophete killed lamonthe with M4
+<47:58> <Lua> cyap killed theprophete with AG36Grenade
+<48:09> <Lua> theprophete killed papazark with Falcon
+<48:24> <Lua> theprophete killed lamonthe with OICWGrenade
+<48:29> <Lua> papazark killed cyap with AG36Grenade
+<48:39> <Lua> papazark killed lamonthe with AG36
+<48:42> <Lua> theprophete killed cyap with OICW
+<48:55> <Lua> papazark killed lamonthe with AG36Grenade
+<49:51> <Lua> theprophete killed cyap with OICWGrenade
+<50:15> <Lua> theprophete killed cyap with M249
+<50:26> <Lua> cyap killed theprophete with M249
+<50:57> <Lua> theprophete killed papazark with AG36
+<51:04> <Lua> theprophete killed lamonthe with AG36
+<51:10> <Lua> cyap killed papazark with M249
+<51:22> <Lua> papazark killed cyap with M4
+<51:30> <Lua> theprophete killed lamonthe with AG36
+<51:30> <Lua> papazark killed theprophete with M4
+<51:55> <Lua> theprophete killed lamonthe with SniperRifle
+<52:01> <Lua> cyap killed lamonthe with Machete
+<52:11> CPhysicalEntity:SetParams(pe_params_pos): (lamonthe @ 983.0,982.5,15.5) Validation Error: pos is invalid
+<52:43> <Lua> papazark killed lamonthe with M4
+<52:43> <Lua> lamonthe killed papazark with VehicleRocket
+<52:59> <Lua> cyap killed papazark with AG36Grenade
+<53:09> <Lua> cyap killed lamonthe with AG36Grenade
+<53:17> ================================================================================
+<53:17> == Statistics                                                                 ==
+<53:17> ================================================================================
+<53:17> Servername: amonthe's Server
+<53:17> Levelname: mp_surf
+<53:17> ================================================================================
+<53:17> == Player:                                                                    ==
+<53:17> ================================================================================
+<53:17> Player: lamonthe
+<53:17>    nKill=13
+<53:17>    nHeadshot=3
+<53:17>    nBulletShot=0
+<53:17>    nSelfKill=1
+<53:17>    nBulletHit=0
+<53:17> Player: theprophete
+<53:17>    nKill=33
+<53:17>    nHeadshot=2
+<53:17>    nBulletShot=0
+<53:17>    nSelfKill=0
+<53:17>    nBulletHit=0
+<53:17> Player: papazark
+<53:17>    nKill=24
+<53:17>    nHeadshot=3
+<53:17>    nBulletShot=0
+<53:17>    nSelfKill=0
+<53:17>    nBulletHit=0
+<53:17> Player: cyap
+<53:17>    nKill=25
+<53:17>    nHeadshot=1
+<53:17>    nBulletShot=0
+<53:17>    nSelfKill=0
+<53:17>    nBulletHit=0
+<53:17> ================================================================================
+<53:17> == Teams:                                                                     ==
+<53:17> ================================================================================
+<53:17> Team: players
+<53:17>    nKill=95
+<53:17>    nHeadshot=9
+<53:17>    nBulletShot=0
+<53:17>    nSelfKill=1
+<53:17>    nBulletHit=0
+<53:17> ================================================================================
+<53:19> <Lua> cyap killed papazark with AG36
+<53:19> <Lua> Map: mp_airstrip (Assault)
+<53:25> Loading ...ercenaries\merc_rear\merc_rear_mp.cgf
+<53:25> ERROR: lod 1 file merc_rear_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<53:25> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<53:25> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<53:25> ERROR: lod 2 file merc_rear_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<53:25> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<53:25> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.<53:26>  Anims<53:26> :<53:26> done;<53:26>  precomputing<53:26> .<53:26> .<53:26> .<53:26> done.
+<53:39> System Shutdown
+<53:39> Releasing UI System...

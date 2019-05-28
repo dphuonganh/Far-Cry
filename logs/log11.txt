@@ -1,0 +1,1550 @@
+Log Started at Saturday, May 18, 2019 14:59:23
+FileVersion: 1.1.3.1395
+ProductVersion: 1.1.3.1395
+
+--- CPU detection ---
+Number of system processors: 4
+Number of available processors: 4
+Processor 0:
+CPU: GenuineIntel Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+Family: 6, Model: 14, Stepping: 9
+FPU: on-chip
+CPU Speed (estimated): 3407.408978 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 1:
+CPU: GenuineIntel Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+Family: 6, Model: 14, Stepping: 9
+FPU: on-chip
+CPU Speed (estimated): 3407.953125 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 2:
+CPU: GenuineIntel Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+Family: 6, Model: 14, Stepping: 9
+FPU: on-chip
+CPU Speed (estimated): 3407.970408 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+Processor 3:
+CPU: GenuineIntel Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz
+Family: 6, Model: 14, Stepping: 9
+FPU: on-chip
+CPU Speed (estimated): 3407.967600 MHz
+MMX: present
+SSE: present
+3DNow!: not present
+Serial number not present or disabled
+
+---------------------
+OS User name: 'intek'
+File System Initialization
+Stream Engine Initialization
+Script System Initialization
+<59:23> Loading system configuration
+<59:23> Lua cvar: (ca_ambient_light_intensity,0.2000000029802322)
+<59:23> Lua cvar: (ca_ambient_light_range,10)
+<59:23> Lua cvar: (ca_EnableDecals,0)
+<59:23> Lua cvar: (cl_installshieldversion,44)
+<59:23> Lua cvar: (cl_lazy_weapon,0)
+<59:23> Lua cvar: (cl_projectile_light,1)
+<59:23> Lua cvar: (cl_punkbuster,0)
+<59:23> Lua cvar: (cl_saveubipassword,0)
+<59:23> Lua cvar: (cl_weapon_fx,2)
+<59:23> Lua cvar: (cl_weapon_light,1)
+<59:23> Lua cvar: (d3d9_TextureFilter,TRILINEAR)
+<59:23> Lua cvar: (e_active_shadow_maps_receving,0)
+<59:23> Lua cvar: (e_beach,1)
+<59:23> Lua cvar: (e_brushes_merging,1)
+<59:23> Lua cvar: (e_cgf_load_lods,1)
+<59:23> Lua cvar: (e_decals,0)
+<59:23> Lua cvar: (e_decals_life_time_scale,0.500000)
+<59:23> Lua cvar: (e_detail_texture_quality,1)
+<59:23> Setting e_EntitySuppressionLevel to 2
+<59:23> Lua cvar: (e_flocks,0)
+<59:23> Lua cvar: (e_light_maps_quality,2)
+<59:23> Lua cvar: (e_max_entity_lights,3)
+<59:23> Lua cvar: (e_obj_lod_ratio,5.000000)
+<59:23> Lua cvar: (e_overlay_geometry,0)
+<59:23> Lua cvar: (e_particles_lod,0.500000)
+<59:23> Lua cvar: (e_particles_max_count,512)
+<59:23> Lua cvar: (e_shadow_maps,0)
+<59:24> Lua cvar: (e_shadow_maps_from_static_objects,1)
+<59:24> Lua cvar: (e_shadow_maps_view_dist_ratio,10.000000)
+<59:24> Lua cvar: (e_shadow_spots,0)
+<59:24> Lua cvar: (e_stencil_shadows,0)
+<59:24> Lua cvar: (e_stencil_shadows_only_from_strongest_light,0)
+<59:24> Lua cvar: (e_use_global_fog_in_fog_volumes,0)
+<59:24> Lua cvar: (e_vegetation_min_size,2.200000)
+<59:24> Lua cvar: (e_vegetation_sprites_distance_ratio,0.900000)
+<59:24> Lua cvar: (es_CharZOffsetSpeed,2.0)
+<59:24> Lua cvar: (es_EnableCloth,1)
+<59:24> Setting ExitOnQuit to 1
+<59:24> Lua cvar: (fs_homepath,)
+<59:24> Lua cvar: (g_gore,2)
+<59:24> Lua cvar: (g_language,english)
+<59:24> Lua cvar: (g_playerprofile,FarCry)
+<59:24> Lua cvar: (g_serverprofile,FarCry)
+<59:24> Lua cvar: (g_timezone,0)
+<59:24> Lua cvar: (game_GliderBackImpulse,2.5f)
+<59:24> Lua cvar: (game_GliderDamping,0.15f)
+<59:24> Lua cvar: (game_GliderGravity,-0.1f)
+<59:24> Lua cvar: (game_GliderStartGravity,-0.8f)
+<59:24> Lua cvar: (i_dinputkeys,1)
+<59:24> Setting i_direct_input to 1
+<59:24> Lua cvar: (i_mouse_accel,0.0)
+<59:24> Lua cvar: (i_mouse_accel_max,100.0)
+<59:24> Lua cvar: (i_mouse_mirror,0)
+<59:24> Lua cvar: (i_mouse_smooth,0.0)
+<59:24> Lua cvar: (log_FileVerbosity,3)
+<59:24> Lua cvar: (log_Verbosity,0)
+<59:24> Lua cvar: (mp_model,objects/characters/pmodels/hero/hero_mp.cgf)
+<59:24> Lua cvar: (p_color,0)
+<59:24> Lua cvar: (p_deathtime,30)
+<59:24> Lua cvar: (p_lightrange,15)
+<59:24> Lua cvar: (p_model,objects/characters/pmodels/hero/hero.cgf)
+<59:24> Lua cvar: (p_name,(((Game Master))))
+<59:24> Lua cvar: (r_Beams,1)
+<59:24> Lua cvar: (r_Brightness,0.500000)
+<59:24> Lua cvar: (r_checkSunVis,1)
+<59:24> Lua cvar: (r_ColorBits,32)
+<59:24> Lua cvar: (r_Contrast,0.500000)
+<59:24> Lua cvar: (r_CoronaFade,0.200000)
+<59:24> Lua cvar: (r_Coronas,1)
+<59:24> Lua cvar: (r_CoronaSizeScale,1.000000)
+<59:24> Lua cvar: (r_CryvisionType,1)
+<59:24> Lua cvar: (r_DepthBits,24)
+<59:24> Lua cvar: (r_DetailDistance,8.000000)
+<59:24> Lua cvar: (r_DetailNumLayers,1)
+<59:24> Lua cvar: (r_DetailTextures,1)
+<59:24> Lua cvar: (r_DisableSfx,0)
+<59:24> Lua cvar: (r_DisplayInfo,0)
+<59:24> Lua cvar: (r_Driver,Direct3D9)
+<59:24> Lua cvar: (r_EnhanceImage,1)
+<59:24> Lua cvar: (r_EnhanceImageAmount,1.000000)
+<59:24> Lua cvar: (r_EnvCMResolution,1)
+<59:24> Lua cvar: (r_EnvCMupdateInterval,0.200000)
+<59:24> Lua cvar: (r_EnvLCMupdateInterval,0.100000)
+<59:24> Lua cvar: (r_EnvLightCMSize,8)
+<59:24> Lua cvar: (r_EnvLighting,0)
+<59:24> Lua cvar: (r_EnvTexResolution,1)
+<59:24> Lua cvar: (r_EnvTexUpdateInterval,0.100000)
+<59:24> Lua cvar: (r_Flares,1)
+<59:24> Lua cvar: (r_FSAA,0)
+<59:24> Lua cvar: (r_FSAA_quality,0)
+<59:24> Lua cvar: (r_FSAA_samples,1)
+<59:24> Lua cvar: (r_Fullscreen,1)
+<59:24> Lua cvar: (r_Gamma,1.000000)
+<59:24> Lua cvar: (r_Glare,0)
+<59:24> Lua cvar: (r_GlareQuality,1)
+<59:24> Lua cvar: (r_HDRBrightOffset,6.000000)
+<59:24> Lua cvar: (r_HDRBrightThreshold,3.000000)
+<59:24> Lua cvar: (r_HDRLevel,0.600000)
+<59:24> Lua cvar: (r_HDRRendering,0)
+<59:24> Lua cvar: (r_HeatHaze,0)
+<59:24> Lua cvar: (r_Height,1080)
+<59:24> Lua cvar: (r_MotionBlur,0)
+<59:24> Lua cvar: (r_ProcFlares,1)
+<59:24> Lua cvar: (r_Quality_BumpMapping,2)
+<59:24> Lua cvar: (r_Quality_Reflection,0)
+<59:24> Lua cvar: (r_RenderMode,0)
+<59:24> Lua cvar: (r_ScopeLens_fx,0)
+<59:24> Lua cvar: (r_SelfShadow,0)
+<59:24> Lua cvar: (r_ShadersPrecache,1)
+<59:24> Lua cvar: (r_ShadersSave,0)
+<59:24> Lua cvar: (r_ShadowBlur,0)
+<59:24> Lua cvar: (r_StencilBits,8)
+<59:24> Lua cvar: (r_TexBumpResolution,0)
+<59:24> Lua cvar: (r_TexLMResolution,0)
+<59:24> Lua cvar: (r_TexQuality,0)
+<59:24> Lua cvar: (r_TexResolution,0)
+<59:24> Lua cvar: (r_TexSkyResolution,0)
+<59:24> Lua cvar: (r_Texture_Anisotropic_Level,1)
+<59:24> Lua cvar: (r_TexturesStreamPoolSize,0)
+<59:24> Lua cvar: (r_Vegetation_PerpixelLight,1)
+<59:24> Lua cvar: (r_VolumetricFog,0)
+<59:24> Lua cvar: (r_VSync,0)
+<59:24> Lua cvar: (r_WaterReflections,1)
+<59:24> Lua cvar: (r_WaterRefractions,1)
+<59:24> Lua cvar: (r_WaterUpdateFactor,0.010000)
+<59:24> Lua cvar: (r_Width,1920)
+<59:24> Lua cvar: (s_CapsCheck,0)
+<59:24> Lua cvar: (s_CompatibleMode,0)
+<59:24> Lua cvar: (s_DopplerEnable,0)
+<59:24> Lua cvar: (s_DopplerValue,1.0)
+<59:24> Lua cvar: (s_DummySound,0)
+<59:24> Lua cvar: (s_EnableSoundFX,1)
+<59:24> Lua cvar: (s_InactiveSoundIterationTimeout,1)
+<59:24> Lua cvar: (s_MaxActiveSoundSpots,100)
+<59:24> Lua cvar: (s_MaxHWChannels,28)
+<59:24> Lua cvar: (s_MaxSoundDist,500)
+<59:24> Lua cvar: (s_MinHWChannels,16)
+<59:24> Lua cvar: (s_MinRepeatSoundTimeout,200)
+<59:24> Lua cvar: (s_MusicEnable,1)
+<59:24> Lua cvar: (s_MusicMaxPatterns,12)
+<59:24> Lua cvar: (s_MusicStreamedData,0)
+<59:24> Lua cvar: (s_MusicVolume,0.5)
+<59:24> Lua cvar: (s_SampleRate,44100)
+<59:24> Lua cvar: (s_SFXVolume,1)
+<59:24> Lua cvar: (s_SoundEnable,1)
+<59:24> Lua cvar: (s_SpeakerConfig,5)
+<59:24> Lua cvar: (s_VisAreasPropagation,10)
+<59:24> Lua cvar: (sv_mapcyclefile,profiles/server/mapcycle.txt)
+<59:24> Lua cvar: (sv_maxrate,30000)
+<59:24> Lua cvar: (sv_maxrate_lan,100000)
+<59:24> Lua cvar: (sv_punkbuster,0)
+<59:24> Setting sys_firstlaunch to 0
+<59:24> Setting sys_script_debugger to 0
+<59:24> Setting sys_skiponlowspec to 1
+<59:24> Setting sys_spec to 3
+<59:24> Setting sys_SSInfo to 0
+<59:24> Setting sys_warnings to 0
+<59:24> Lua cvar: (ui_BackGroundVideo,1)
+<59:24> Lua cvar: (ui_EasyToolTip,0)
+<59:24> Lua cvar: (ui_RepeatDelay,200)
+<59:24> Lua cvar: (ui_RepeatSpeed,40)
+<59:24> Lua cvar: (ui_ToolTipDelay,1500)
+<59:24> Lua cvar: (ui_ToolTips,1)
+<59:24> Lua cvar: (ui_TriggerUIEvents,1)
+<59:24> Lua cvar: (ui_TriggerWidgetEvents,1)
+<59:24> Loading system configuration
+<59:24> Opening pack file c:\bin\farcry\fcdata\localized\english.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\localized\english1.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\localized\english2.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\ccgf_cache.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\ccgf_cache1.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\effects.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\music.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\objects.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\objects1.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\objects2.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\objects3.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\scripts.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\scripts1.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\shaders.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\shaders1.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\sounds.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\textures.pak
+<59:24> Opening pack file c:\bin\farcry\fcdata\textures1.pak
+<59:24> Network initialization
+<59:24> network hostname: DESKTOP-FIBT4HU
+<59:24>   ip:172.26.8.76
+<59:24> Physics initialization
+<59:24> MovieSystem initialization
+<59:24> Renderer initialization
+<59:25> System: INFO: DirectX 12.0 installed
+<59:25> System: VideoCard Detected: Intel (Unknown)
+<59:25> Direct3D9 driver is creating...
+<59:25> Best-match display mode: 1920x1080x32 (Error=8)
+<59:25> Creating D3D device (Adapter format: D3DFMT_X8R8G8B8, BackBuffer format: D3DFMT_A8R8G8B8, Depth format: D3DFMT_D24S8)
+<59:25> D3D Adapter: Driver name: igdumdim32.dll
+<59:25> D3D Adapter: Driver description: Intel(R) HD Graphics 630
+<59:25> D3D Adapter: Driver version: 23.20.16.4973
+<59:25> D3D Adapter: Driver GUID: D7B78E66-1A52-11CF-F560B227BFC2DA35
+<59:25> D3D Adapter: VendorId = 32902
+<59:25> D3D Adapter: DeviceId = 22802
+<59:25> D3D Adapter: SubSysId = 128061480
+<59:25> D3D Adapter: Revision = 4
+<59:25> D3D Detected: Intel video card
+<59:25> D3D Driver: MaxTextureBlendStages   = 8
+<59:25> D3D Driver: MaxSimultaneousTextures = 8
+<59:25>   Using '8888' pixel texture format
+<59:25>   Using 'Alpha8' pixel texture format
+<59:25>   Using 'Alpha8Lum8' pixel texture format
+<59:25>   Using 'V16U16' pixel texture format
+<59:25>   Using 'Depth24' pixel texture format
+<59:25>   Using 'BumpV8U8' pixel texture format
+<59:25>   Using 'BumpQ8W8U8V8' pixel texture format
+<59:25>   Using 'BumpU5V5L6' pixel texture format
+<59:25>   Using '3Dc' pixel texture format
+<59:25>   Using 'DXT1' pixel texture format
+<59:25>   Using 'DXT3' pixel texture format
+<59:25>   Using 'DXT5' pixel texture format
+<59:25> D3D Driver: Supports trilinear texture filtering
+<59:25> D3D Driver: projected textures with Env. bump mapping not allowed
+<59:26> D3D Driver: Supports range-based fog
+<59:26> D3D Driver: Supports eye-relative fog
+<59:26> D3D Driver: Supports anisotropic filtering
+<59:26> D3D Driver: Supports LOD biasing
+<59:26> D3D Driver: Supports Z biasing
+<59:26> D3D Driver: Supports scissor test
+<59:26> D3D Driver: Supports stream offset
+<59:26> D3D Driver: Supports non-power-of-2 textures
+<59:26> D3D Driver: Supports D3DTOP_ADDSIGNED2X TextureOp
+<59:26> D3D Driver: Supports D3DTOP_BUMPENVMAP TextureOp
+<59:26> D3D Driver: Supports D3DTOP_BUMPENVMAPLUMINANCE TextureOp
+<59:26> D3D Driver: Supports D3DTOP_DOTPRODUCT3 TextureOp
+<59:26> D3D Driver: Supports D3DTOP_MODULATEALPHA_ADDCOLOR TextureOp
+<59:26> D3D Driver: Supports D3DTOP_MODULATECOLOR_ADDALPHA TextureOp
+<59:26> D3D Driver: Supports D3DTOP_ADD TextureOp
+<59:26> D3D Driver: Supports MaxAnisotropy level 16
+<59:26> D3D Driver: Supports Stencil shadows
+<59:26> D3D Driver: Supports Two-Sided stencil
+<59:26> D3D Driver: Textures (0x0)-(8192x8192), Max aspect 8192
+<59:26> Apply TRILINEAR texture filtering
+<59:26>  ****** D3D9 CryRender Stats ******
+<59:26>  Driver description: Intel(R) HD Graphics 630
+<59:26>  Full stats: HAL (pure hw vp): Intel(R) HD Graphics 630
+<59:26>  Hardware acceleration: Yes
+<59:26>  Full scene AA: Disabled
+<59:26>  Projective EMBM: Disabled
+<59:26>  Detail textures: Enabled
+<59:26>  Z Buffer Locking: Enabled
+<59:26>  Multitexturing: Supported (8 textures)
+<59:26>  Use bumpmapping : Enabled (DOT3)
+<59:26>  Use paletted textures : Disabled
+<59:26>  Current Resolution: 1920x1080x32 Full Screen
+<59:26>  Maximum Resolution: 1920x1080
+<59:26>  Maximum Texture size: 8192x8192 (Max Aspect: 8192)
+<59:26>  Texture filtering type: TRILINEAR
+<59:26>  HDR Rendering: Disabled
+<59:26>  MRT Rendering: Enabled
+<59:26>  Occlusion queries: Supported
+<59:26>  Geometry instancing: Supported
+<59:26>  NormalMaps compression: 3Dc
+<59:26>  Gamma control: Hardware
+<59:26>  Vertex Shaders version 3.0
+<59:26>  Pixel Shaders version 3.0
+<59:26>  Use Hardware Shaders for ATI R420 GPU
+<59:26>  Pixel shaders usage: PS1.1 only
+<59:26>  Vertex shaders usage: VS1.1 only
+<59:26>  Shadow maps type: Mixed Depth/2D maps
+<59:26>  Stencil shadows type: Two sided
+<59:26>  Lighting quality: High
+<59:26>  *****************************************
+
+<59:26> Init Shaders
+<59:26>   7 Shader files found.
+
+<59:26>   94 Shader files found.
+
+<59:26> Construct Shader '<Default>'...<59:26> ok
+<59:26> Construct Shader 'ZBuffPass'...<59:26> ok
+<59:26> Construct Shader 'ShadowMap'...<59:26> ok
+<59:26> Compile System Shader 'StateNoCull'...<59:26> ok
+<59:26> Compile System Shader 'HDRProcess'...<59:26> ok
+<59:26> Compile System Shader 'SunFlares'...<59:26> ok
+<59:26>   2 Sun flares was parsed
+<59:26> Compile System Shader 'LightStyles'...<59:26> ok
+<59:26>   34 Light styles was parsed
+<59:26> Compile Glare Shader ...
+<59:26> Compile System HW Shader 'CGVProgramms'...<59:26> ok
+<59:26> Compile System HW Shader 'CGPShaders'...<59:26> ok
+<59:26> Compile System Shader 'TemplFog'...<59:26> ok
+<59:26> Compile System Shader 'TemplVFog'...<59:26> Fail.
+<59:26> Compile System Shader 'TemplFog_FP'...<59:26> ok
+<59:26> Compile System Shader 'TemplFogCaustics'...<59:26> ok
+<59:26> Compile System Shader 'TemplVFogCaustics'...<59:26> Fail.
+<59:26> Compile System Shader 'TemplFogCaustics_FP'...<59:26> ok
+<59:26> Console initialization
+<59:26> Time initialization
+<59:26> Input initialization
+<59:26> Initializing Direct Input
+<59:26> Direct Input initialized (CryInputDLL)
+<59:26> Initializing Keyboard
+<59:26> Keyboard initialized
+<59:26> Initializing mouse
+<59:26> Mouse initialized
+<59:26> Found 16 joystick devices
+<59:26> Joystick 0 not plugged in!
+<59:26> Joystick 1 not plugged in!
+<59:26> Joystick 2 not plugged in!
+<59:26> Joystick 3 not plugged in!
+<59:26> Joystick 4 not plugged in!
+<59:26> Joystick 5 not plugged in!
+<59:26> Joystick 6 not plugged in!
+<59:26> Joystick 7 not plugged in!
+<59:26> Joystick 8 not plugged in!
+<59:26> Joystick 9 not plugged in!
+<59:26> Joystick 10 not plugged in!
+<59:26> Joystick 11 not plugged in!
+<59:26> Joystick 12 not plugged in!
+<59:26> Joystick 13 not plugged in!
+<59:26> Joystick 14 not plugged in!
+<59:26> Joystick 15 not plugged in!
+<59:26> Joystick initialized
+<59:26> initializing Key/name Mapping
+<59:26> Sound initialization
+<59:26> ------------------------------------------CRYSOUND VERSION=3.610000
+<59:27> CRYSOUND Driver: Primary Sound Driver
+<59:27> Total number of channels available: 284
+<59:27> Set speaker mode stereo
+<59:27> Font initialization
+<59:27> AI initialization
+<59:27> Entity system initialization
+<59:27> Initializing Animation System
+<59:27> CPU capabilities: <59:27>  FPU<59:27>  VME<59:27>  DE<59:27>  PSE<59:27>  TSC<59:27>  MSR<59:27>  PAE<59:27>  MCE<59:27>  CX8<59:27>  APIC<59:27>  SEP<59:27>  MTRR<59:27>  PGE<59:27>  MCA<59:27>  CMOV<59:27>  PAT<59:27>  PSE-36<59:27>  CLFSH<59:27>  DS<59:27>  ACPI<59:27>  MMX<59:27>  FXSR<59:27>  SSE<59:27>  SSE2<59:27>  SS<59:27>  HTT<59:27>  TM<59:27>  PBE<59:27>  ok
+<59:27> Initializing 3D Engine
+<59:27> Removing lights ...
+<59:27> Deleting visareas ...
+<59:27> Deleting terrain ...
+<59:27> ObjManager shutdown ...
+<59:27> Initializing Script Bindings
+<59:27> Loading ...s\characters\pmodels\hero\hero_mp.ccg
+<59:27> WARNING: Connectivity warning: there are 1 open edges (3550 closed, 2367 faces, 0 planes, 0 vertices)
+<59:43> Loading banned IP list...
+<59:43> ERROR: failed to open bannedip.txt for reading!
+<59:43> Loading ...s\characters\pmodels\hero\hero_mp.ccg
+<59:43> WARNING: Connectivity warning: there are 1 open edges (3550 closed, 2367 faces, 0 planes, 0 vertices)
+<59:44> Loading Objects\default.cgf
+<59:44> ---------------------- Loading level Levels/mp_surf, mission FFA ----------------------------------
+<59:44> Loading materials ...<59:44>  391 mats loaded
+<59:44> Loading Objects\Vehicles\buggy\piece10.cgf
+<59:44> Loading Objects\Vehicles\buggy\piece06.cgf
+<59:44> Loading Objects\Vehicles\buggy\piece02.cgf
+<59:44> Loading Objects\Vehicles\buggy\buggy_debris02.cgf
+<59:44> Loading Objects\vehicles\buggy\buggy_debris01.cgf
+<59:44> Loading Objects\vehicles\buggy\buggy_debris06.cgf
+<59:44> Loading Objects\vehicles\buggy\buggy_debris12.cgf
+<59:44> Loading Objects\glm\ww2_indust_set1\GK_Wall\wall_piece01.cgf
+<59:44> Loading Objects\Vehicles\buggy\piece04.cgf
+<59:44> Loading Objects\Buildings\M03\Fort_ruin\concreterubble01.cgf
+<59:44> Loading Objects\Buildings\M03\Fort_ruin\concreterubble02.cgf
+<59:44> Loaded 205 Particle Effects from Effects\Explosions.prt.
+<59:44> Loaded 31 Particle Effects from Effects\Water.prt.
+<59:44> Loaded 29 Particle Effects from Effects\Smoke.prt.
+<59:44> Loaded 3 Particle Effects from Effects\Blood.prt.
+<59:44> Loading Objects\Vehicles\buggy\buggy_debris03.cgf
+<59:44> Loading Objects\Weapons\effects\concrete_piece.cgf
+<59:44> Loading Objects\Vehicles\buggy\buggy_debris07.cgf
+<59:44> Loaded 96 Particle Effects from Effects\Bullet.prt.
+<59:44> Loaded 16 Particle Effects from Effects\Misc.prt.
+<59:44> Loaded 28 Particle Effects from Effects\Fire.prt.
+<59:44> Loaded 0 Particle Effects from Levels/mp_surf/particles.lst.
+<59:45> Loading Objects\Natural\leafy_green_paradise\lgp_bottlebrush_b.cgf
+<59:45> Loading Objects\Natural\coastal_objects\cst_large_palm_leaning_a.cgf
+<59:45> Loading Objects\Natural\coastal_objects\cst_large_palm_a.cgf
+<59:45> Loading Objects\Natural\coastal_objects\cst_large_palm_a_lod1.cgf
+<59:45> Loading Objects\Natural\coastal_objects\cst_large_palm_c.cgf
+<59:45> Loading Objects\Natural\coastal_objects\cst_large_palm_c_lod1.cgf
+<59:45> Loading Objects\Natural\coastal_objects\cst_large_palm_b.cgf
+<59:45> Loading Objects\Natural\coastal_objects\cst_large_palm_leaning_a_90deg.cgf
+<59:45> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_c.cgf
+<59:45> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_b.cgf
+<59:45> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_a.cgf
+<59:45> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_bb.cgf
+<59:45> Loading Objects\Natural\basic_jungle\bsc_tree_small_curved_c.cgf
+<59:45> Loading Objects\Natural\basic_jungle\bsc_tree_small_curved_c_lod1.cgf
+<59:45> Loading Objects\Natural\coastal_objects\cst_large_palm_leaning_b.cgf
+<59:45> Loading Objects\Natural\leafy_green_paradise\lgp_banana_bush_a.cgf
+<59:45> Loading Objects\Natural\leafy_green_paradise\lgp_banana_bush_b.cgf
+<59:46> Loading Objects\Natural\Bushes\oldforest_beach_bush2.cgf
+<59:46> Loading Objects\Natural\leafy_green_paradise\lgp_canopytree_aa.cgf
+<59:46> Loading Objects\Natural\leafy_green_paradise\lgp_canopytree_aa_lod1.cgf
+<59:46> Loading Objects\Natural\leafy_green_paradise\lgp_forestpalm_a.cgf
+<59:46> Loading Objects\Natural\leafy_green_paradise\lgp_forestpalm_short_b.cgf
+<59:46> Loading Objects\Natural\underwater\und_roundplant_b.cgf
+<59:46> Loading Objects\Natural\underwater\und_flexible_b.cgf
+<59:46> Loading Objects\Natural\underwater\und_bump_a.cgf
+<59:46> Loading Objects\Natural\underwater\und_bump_b.cgf
+<59:46> Loading Objects\Natural\ancient_jungle\anc_tree_vines_a.cgf
+<59:46> Loading Objects\Natural\underwater\und_bump_c.cgf
+<59:46> Loading brushes ... 
+<59:46> Loading Objects\outdoor\human_camp\cratemetalclosesmall.cgf
+<59:46> Loading Objects\outdoor\islanders_structures\hut_onwater_walkway_pilla_s02.cgf
+<59:46> Loading Objects\outdoor\fortifications\sandbag_circle_tall.cgf
+<59:46> Loading Objects\glm\ww2_indust_set1\steps\steptrim_base100z.cgf
+<59:46> Loading Objects\indoor\boxes\crates\crate_covered.cgf
+<59:46> Loading Objects\glm\ww2_indust_set1\floors\floor2x2y_dark.cgf
+<59:46> Loading Objects\natural\coastal_objects\cst_rock_colourfull_b.cgf
+<59:46> Loading Objects\natural\coastal_objects\cst_rock_colourfull_b_lod1.cgf
+<59:46> Loading Objects\natural\coastal_objects\cst_rock_colourfull_b_lod2.cgf
+<59:46> Loading Objects\indoor\props\storage\shelve_indoor_2m.cgf
+<59:46> Loading Objects\glm\ww2_indust_set1\steps\steptrim_base100z_b.cgf
+<59:46> Loading Objects\glm\ww2_indust_set1\steps\steptrim_2x50z.cgf
+<59:46> Loading Objects\weapons\minigun\tripod_minigun_part1.cgf
+<59:46> Loading Objects\indoor\boxes\crates\crate2.cgf
+<59:46> Loading Objects\vehicles\gunboat\gunboat.cgf
+<59:46> Loading Objects\vehicles\gunboat\gunboat_lod1.cgf
+<59:46> Loading Objects\glm\ww2_indust_set1\lights\light_indust2\light_indust2.cgf
+<59:46> Loading Objects\outdoor\islanders_structures\hut_onwater__gk_plate_4m_2.cgf
+<59:46> Loading Objects\indoor\boxes\crates\barrel_oil.cgf
+<59:46> Loading Objects\natural\coastal_objects\cst_rock_colourfull_a.cgf
+<59:46> Loading Objects\natural\coastal_objects\cst_rock_colourfull_a_lod1.cgf
+<59:46> Loading Objects\natural\coastal_objects\cst_rock_colourfull_a_lod2.cgf
+<59:46> Loading Objects\vehicles\gunboat\gunboat_rack.cgf
+<59:46> Loading Objects\outdoor\human_camp\camo_net.cgf
+<59:46> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_large.cgf
+<59:46> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_large_lod1.cgf
+<59:46> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_large_lod2.cgf
+<59:46> Loading Objects\weapons\minigun\tripod_with_ammo_a.cgf
+<59:46> Loading Objects\outdoor\merc_structures\wooden_bridge_long.cgf
+<59:46> Loading Objects\outdoor\merc_structures\voltagehouse.cgf
+<59:46> Loading Objects\indoor\boxes\crates\ammo_crate.cgf
+<59:46> Loading Objects\indoor\boxes\crates\ammo_crate_lod1.cgf
+<59:46> Loading Objects\indoor\boxes\crates\ammo_crate_lod2.cgf
+<59:46> Loading Objects\vehicles\zero_aircraft\zero_underwater_cockpit.cgf
+<59:46> Loading Objects\vehicles\zero_aircraft\zero_underwater_cockpit_lod1.cgf
+<59:46> Loading Objects\vehicles\zero_aircraft\zero_underwater_cockpit_lod2.cgf
+<59:46> Loading Objects\buildings\m03\compound_area\coa_storage.cgf
+<59:46> Loading Objects\buildings\m03\compound_area\coa_radio_tower.cgf
+<59:46> Loading Objects\buildings\m03\compound_area\coa_radio_tower_lod1.cgf
+<59:46> Loading Objects\buildings\m03\compound_area\coa_radio_tower_lod2.cgf
+<59:46> Loading Objects\outdoor\towers\aircontrol_tower.cgf
+<59:46> Brushes loaded: 28 models, 219 instances, 0 custom materials
+<59:46> Loading lightmaps ...
+<59:46> WARNING: Error: CBrush::SetLightmap: Object at position (967.289551, 1055.383911, 19.111288) has texture mismatch (6120 coordinates supplied, 6900 required)
+<59:46>  [AISYSTEM] Initialization started.
+<59:46>  [AISYSTEM] Initialization finished.
+<59:46> Loading Objects\Weapons\shells\snipershell.cgf
+<59:46> Loading Objects\Weapons\aw50\aw50_bind.cgf
+<59:46> Loading Objects\Weapons\aw50\aw50_bind_lod1.cgf
+<59:46> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [551 agains 551], there is no sense to use it
+<59:46> Loading CCGF_CACHE\objects\weapons\aw50\aw50.ccg
+<59:46> <Lua>  BasicWeapon Init SniperRifle
+<59:46> Loading Objects\Weapons\Muzzle_flash\mf_AW50_fpv.cgf
+<59:46> Loading Objects\Weapons\Muzzle_flash\mf_AW50_tpv.cgf
+<59:46> <Lua>  BasicWeapon Init SniperRifle
+<59:46> Loading Objects\Weapons\pancor\pancor_bind.cgf
+<59:46> Loading Objects\Weapons\pancor\pancor_bind_lod1.cgf
+<59:46> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [512 agains 512], there is no sense to use it
+<59:46> Loading ...CHE\objects\weapons\pancor\pancor.ccg
+<59:46> <Lua>  BasicWeapon Init Shotgun
+<59:46> Loading Objects\Weapons\Muzzle_flash\mf_Pancor_fpv.cgf
+<59:46> Loading Objects\Weapons\Muzzle_flash\mf_Pancor_tpv.cgf
+<59:47> <Lua>  BasicWeapon Init Shotgun
+<59:47> Loading Objects\Weapons\shells\rifleshell.cgf
+<59:47> Loading Objects\Weapons\trail.cgf
+<59:47> Loading Objects\Weapons\M249\M249_bind.cgf
+<59:47> Loading Objects\Weapons\M249\M249_bind_lod1.cgf
+<59:47> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [801 agains 801], there is no sense to use it
+<59:47> Loading CCGF_CACHE\objects\weapons\m249\m249.ccg
+<59:47> ERROR: CControllerManager::LoadAnimation: file loading Objects\Weapons\M249\.\m249_fidget11.caf file not found
+<59:47> ERROR: CControllerManager::LoadAnimation: file loading Objects\Weapons\M249\.\m249_fidget12.caf file not found
+<59:47> <Lua>  BasicWeapon Init M249
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_m4_fpv.cgf
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_m4_tpv.cgf
+<59:47> <Lua>  BasicWeapon Init M249
+<59:47> <Lua>  BasicWeapon Init MutantMG
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_coverrl_tpv.cgf
+<59:47> <Lua>  BasicWeapon Init MutantMG
+<59:47> Loading Objects\Weapons\wrench\wrench_bind.cgf
+<59:47> Loading Objects\Weapons\wrench\wrench_bind_lod1.cgf
+<59:47> Loading ...CHE\objects\weapons\wrench\wrench.ccg
+<59:47> <Lua>  BasicWeapon Init Wrench
+<59:47> <Lua>  BasicWeapon Init Wrench
+<59:47> Loading Objects\Weapons\health_pack\healthpack_bind.cgf
+<59:47> Loading ...s\weapons\health_pack\health_pack.ccg
+<59:47> WARNING: Connectivity warning: there are 152 open edges (1652 closed, 1152 faces, 0 planes, 0 vertices)
+<59:47> <Lua>  BasicWeapon Init MedicTool
+<59:47> <Lua>  BasicWeapon Init MedicTool
+<59:47> Loading Objects\Weapons\trail_mounted.cgf
+<59:47> <Lua>  BasicWeapon Init MG
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_MG_fpv.cgf
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_MG_tpv.cgf
+<59:47> <Lua>  BasicWeapon Init MG
+<59:47> Loading Objects\Weapons\MutantShotgun\MutantShotgun_bind.cgf
+<59:47> <Lua>  BasicWeapon Init MutantShotgun
+<59:47> <Lua>  BasicWeapon Init MutantShotgun
+<59:47> <Lua>  BasicWeapon Init VehicleMountedRocket
+<59:47> <Lua>  BasicWeapon Init VehicleMountedRocket
+<59:47> <Lua>  BasicWeapon Init VehicleMountedMG
+<59:47> <Lua>  BasicWeapon Init VehicleMountedMG
+<59:47> Loading Objects\Weapons\shells\smgshell.cgf
+<59:47> Loading Objects\Weapons\de\de_bind.cgf
+<59:47> Loading Objects\Weapons\de\de_bind_lod1.cgf
+<59:47> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [394 agains 394], there is no sense to use it
+<59:47> Loading CCGF_CACHE\objects\weapons\de\de.ccg
+<59:47> <Lua>  BasicWeapon Init Falcon
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_DE_fpv.cgf
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_DE_tpv.cgf
+<59:47> <Lua>  BasicWeapon Init Falcon
+<59:47> Loading objects\weapons\machete\machete_bind.cgf
+<59:47> Loading objects\weapons\machete\machete_bind_lod1.cgf
+<59:47> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [395 agains 395], there is no sense to use it
+<59:47> Loading ...E\objects\weapons\machete\machete.ccg
+<59:47> <Lua>  BasicWeapon Init Machete
+<59:47> <Lua>  BasicWeapon Init Machete
+<59:47> <Lua>  BasicWeapon Init VehicleMountedRocketMG
+<59:47> <Lua>  BasicWeapon Init VehicleMountedRocketMG
+<59:47> Loading Objects\Weapons\ag36\ag36_bind.cgf
+<59:47> Loading Objects\Weapons\ag36\ag36_bind_lod1.cgf
+<59:47> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [1054 agains 1054], there is no sense to use it
+<59:47> Loading CCGF_CACHE\objects\weapons\ag36\ag36.ccg
+<59:47> <Lua>  BasicWeapon Init AG36
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_ag36_fpv.cgf
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_ag36_tpv.cgf
+<59:47> <Lua>  BasicWeapon Init AG36
+<59:47> Loading Objects\Weapons\P90\P90_bind.cgf
+<59:47> Loading Objects\Weapons\P90\P90_bind_lod1.cgf
+<59:47> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [627 agains 627], there is no sense to use it
+<59:47> Loading CCGF_CACHE\objects\weapons\p90\p90.ccg
+<59:47> <Lua>  BasicWeapon Init P90
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_P90_fpv.cgf
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_p90_tpv.cgf
+<59:47> <Lua>  BasicWeapon Init P90
+<59:47> Loading Objects\Weapons\MP5\MP5_bind.cgf
+<59:47> Loading Objects\Weapons\MP5\MP5_bind_lod1.cgf
+<59:47> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [757 agains 757], there is no sense to use it
+<59:47> Loading CCGF_CACHE\objects\weapons\mp5\mp5.ccg
+<59:47> <Lua>  BasicWeapon Init MP5
+<59:47> <Lua>  BasicWeapon Init MP5
+<59:47> <Lua>  BasicWeapon Init EngineerTool
+<59:47> <Lua>  BasicWeapon Init EngineerTool
+<59:47> Loading Objects\Weapons\oicw\oicw_bind.cgf
+<59:47> Loading Objects\Weapons\oicw\oicw_bind_lod1.cgf
+<59:47> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [771 agains 771], there is no sense to use it
+<59:47> Loading CCGF_CACHE\objects\weapons\oicw\oicw.ccg
+<59:47> <Lua>  BasicWeapon Init OICW
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_OICW_fpv.cgf
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_OICW_tpv.cgf
+<59:47> <Lua>  BasicWeapon Init OICW
+<59:47> <Lua>  BasicWeapon Init VehicleMountedAutoMG
+<59:47> <Lua>  BasicWeapon Init VehicleMountedAutoMG
+<59:47> Loading Objects\Weapons\scouttool\scouttool_bind.cgf
+<59:47> Loading ...jects\weapons\scouttool\scouttool.ccg
+<59:47> <Lua>  BasicWeapon Init ScoutTool
+<59:47> <Lua>  BasicWeapon Init ScoutTool
+<59:47> Loading Objects\Weapons\RL\RL_bind.cgf
+<59:47> Loading Objects\Weapons\RL\RL_bind_lod1.cgf
+<59:47> Loading CCGF_CACHE\objects\weapons\rl\rl.ccg
+<59:47> WARNING: Connectivity warning: there are 31 open edges (25 closed, 27 faces, 0 planes, 0 vertices)
+<59:47> <Lua>  BasicWeapon Init RL
+<59:47> <Lua>  BasicWeapon Init RL
+<59:47> Loading Objects\Weapons\M4\M4_bind.cgf
+<59:47> Loading Objects\Weapons\M4\M4_bind_lod1.cgf
+<59:47> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [735 agains 735], there is no sense to use it
+<59:47> Loading CCGF_CACHE\objects\weapons\m4\m4.ccg
+<59:47> <Lua>  BasicWeapon Init M4
+<59:47> <Lua>  BasicWeapon Init M4
+<59:47> Loading Objects\Weapons\Shocker\Shocker_bind.cgf
+<59:47> Loading ...E\objects\weapons\shocker\shocker.ccg
+<59:47> <Lua>  BasicWeapon Init Shocker
+<59:47> Loading Objects\Weapons\Muzzle_flash\mf_shocker_fpv.cgf
+<59:47> <Lua>  BasicWeapon Init Shocker
+<59:47> Loading Objects\Weapons\coverrl\coverrl_bind.cgf
+<59:47> <Lua>  BasicWeapon Init COVERRL
+<59:47> <Lua>  BasicWeapon Init COVERRL
+<59:47> <Lua>  BasicWeapon Init Mortar
+<59:47> <Lua>  BasicWeapon Init Mortar
+<59:47> Loading objects\weapons\Rockets\rocket.cgf
+<59:47> Loading objects\weapons\Grenades\Grenade.cgf
+<59:47> Loading Objects\Pickups\explosive\explosive_nocount.cgf
+<59:47> Loading objects\natural\rocks\throwrock.cgf
+<59:47> Loading Objects\pickups\ammo\sniperammo.cgf
+<59:47> Loading Objects\pickups\ammo\ammo.cgf
+<59:47> Loading Objects\pickups\health\medikit.cgf
+<59:47> Loading Objects\pickups\ammo\rockets.cgf
+<59:47> Loading Objects\pickups\ammo\ammo_smg.cgf
+<59:47> Loading Objects\pickups\ammo\ammo_20mm.cgf
+<59:47> Loading Objects\pickups\grenade\grenade_frag_pickup.cgf
+<59:47> Loading Objects\pickups\ammo\shotgunammo.cgf
+<59:47> Loading objects\Vehicles\gunboat\gunboat.cgf
+<59:47> Loading objects\Vehicles\gunboat\gunboat_lod1.cgf
+<59:47> Loading objects\Vehicles\gunboat\gunboat_wreck.cgf
+<59:47> Loading objects\Vehicles\gunboat\gunboat_wreck_lod1.cgf
+<59:47> Loading objects\Vehicles\gunboat\gunboat_wreck_lod2.cgf
+<59:47> Loading Objects\pickups\ammo\ammo_pistol.cgf
+<59:47> Loading objects\pickups\ammo\ammo_40mm.cgf
+<59:47> Loading Objects\pickups\binoculars\binocular.cgf
+<59:48> Loading Objects\pickups\armor\bodyarmor.cgf
+<59:48> [AISYSTEM] Verifying BAI file version
+<59:48> [AISYSTEM] Reading BBOX
+<59:48> [AISYSTEM] Reading node descriptors
+<59:48> [AISYSTEM] Creating graph nodes
+<59:48> [AISYSTEM] Reading vertex list
+<59:48> [AISYSTEM] Reading links
+<59:48> [AISYSTEM] Reconnecting links (might take some time:)
+<59:48> [AISYSTEM] Verifying BAI file version
+<59:48> [AISYSTEM] Reading BBOX
+<59:48> [AISYSTEM] Reading node descriptors
+<59:48> [AISYSTEM] Creating graph nodes
+<59:48> [AISYSTEM] Reading vertex list
+<59:48> [AISYSTEM] Reading links
+<59:48> [AISYSTEM] Reconnecting links (might take some time:)
+<59:48> [AISYSTEM] Triangulation finished.
+<59:48>  Level mp_surf loaded in 4.206 seconds
+<59:48> Precaching level ... <59:48> done
+<00:18> Loading ...cenaries\merc_scout\merc_scout_mp.cgf
+<00:18> ERROR: lod 1 file merc_scout_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<00:18> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<00:18> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<00:18> ERROR: lod 2 file merc_scout_mp.cgf has inconsistent number of bones (41, expected 50). Please re-export the lod
+<00:18> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.
+<00:18> ERROR: there are 50 bones and 41 initial pose matrices. ignoring matrices.<00:18>  Anims<00:18> :<00:18> done;<00:18>  precomputing<00:18> .<00:18> .<00:18> .<00:18> done.
+<00:33> <Lua> kys killed TheAsianSanta with Falcon
+<00:40> <Lua> TheAsianSanta killed kys with Falcon
+<00:51> <Lua> kys killed TheAsianSanta with Falcon
+<01:12> <Lua> TheAsianSanta killed Monsieur with M4
+<01:20> <Lua> lythanhphu killed TheAsianSanta with VehicleRocket
+<01:20> <Lua> lythanhphu killed Monsieur with VehicleRocket
+<01:32> <Lua> Monsieur killed kys with Falcon
+<01:35> <Lua> lythanhphu killed Monsieur with VehicleRocket
+<01:41> <Lua> kys killed Simon with Falcon
+<01:42> <Lua> lythanhphu killed kys with VehicleRocket
+<01:55> <Lua> lythanhphu killed Simon with VehicleRocket
+<02:08> <Lua> Simon killed lythanhphu with MG
+<02:13> <Lua> TheAsianSanta killed Simon with Shotgun
+<02:18> <Lua> Monsieur killed TheAsianSanta with M4
+<02:23> <Lua> TheAsianSanta killed kys with Falcon
+<02:37> <Lua> lythanhphu killed TheAsianSanta with AG36Grenade
+<02:41> <Lua> kys killed Simon with Falcon
+<02:50> <Lua> Simon killed lythanhphu with Falcon
+<02:56> <Lua> Simon killed Monsieur with Falcon
+<03:11> <Lua> Monsieur killed Simon with M4
+<03:17> <Lua> lythanhphu killed TheAsianSanta with OICWGrenade
+<03:25> <Lua> kys killed itself
+<03:47> <Lua> lythanhphu killed kys with OICWGrenade
+<03:49> <Lua> Monsieur killed TheAsianSanta with Shotgun
+<03:55> <Lua> kys killed Simon with Falcon
+<03:57> <Lua> TheAsianSanta killed lythanhphu with Falcon
+<04:05> <Lua> Monsieur killed Simon with Shotgun
+<04:18> <Lua> lythanhphu killed TheAsianSanta with AG36
+<04:28> <Lua> lythanhphu killed kys with AG36Grenade
+<04:36> <Lua> TheAsianSanta killed Simon with AG36
+<04:59> <Lua> kys killed lythanhphu with Rocket
+<05:07> <Lua> lythanhphu killed Monsieur with Falcon
+<05:15> <Lua> TheAsianSanta killed kys with AG36
+<05:21> <Lua> lythanhphu killed Monsieur with P90
+<05:27> <Lua> kys killed lythanhphu with Falcon
+<05:34> <Lua> Monsieur killed kys with P90
+<05:48> <Lua> kys killed Monsieur with MP5
+<05:59> <Lua> lythanhphu killed Simon with AG36Grenade
+<06:04> <Lua> kys killed TheAsianSanta with MG
+<06:06> <Lua> lythanhphu killed Monsieur with AG36Grenade
+<06:35> <Lua> kys killed TheAsianSanta with MG
+<06:40> <Lua> lythanhphu killed Monsieur with VehicleRocket
+<06:40> <Lua> lythanhphu killed itself
+<06:47> <Lua> lythanhphu killed TheAsianSanta with Falcon
+<07:02> <Lua> TheAsianSanta killed Simon with Falcon
+<07:04> <Lua> lythanhphu killed TheAsianSanta with Falcon
+<07:18> <Lua> lythanhphu killed kys with AG36
+<07:21> <Lua> TheAsianSanta killed Monsieur with Falcon
+<07:32> <Lua> Monsieur killed TheAsianSanta with M249
+<07:40> <Lua> lythanhphu killed Simon with AG36Grenade
+<07:44> <Lua> TheAsianSanta killed Monsieur with AG36
+<07:48> <Lua> lythanhphu killed Simon with AG36Grenade
+<07:53> <Lua> kys killed lythanhphu with M4
+<07:58> <Lua> TheAsianSanta killed Simon with AG36
+<08:05> <Lua> TheAsianSanta killed lythanhphu with AG36
+<08:09> <Lua> Monsieur killed kys with M249
+<08:18> <Lua> TheAsianSanta killed Monsieur with AG36
+<08:26> <Lua> TheAsianSanta killed Monsieur with AG36
+<08:39> <Lua> Monsieur killed Simon with M4
+<08:42> <Lua> TheAsianSanta killed Monsieur with AG36
+<08:54> <Lua> TheAsianSanta killed Monsieur with AG36
+<09:02> <Lua> Monsieur killed TheAsianSanta with Falcon
+<09:08> <Lua> kys killed Simon with Falcon
+<09:16> <Lua> lythanhphu killed kys with SniperRifle
+<09:29> <Lua> lythanhphu killed kys with SniperRifle
+<09:39> <Lua> lythanhphu killed kys with SniperRifle
+<09:45> <Lua> Monsieur killed TheAsianSanta with AG36
+<09:52> <Lua> TheAsianSanta killed kys with Falcon
+<09:58> <Lua> lythanhphu killed TheAsianSanta with SniperRifle
+<10:03> <Lua> kys killed Simon with Falcon
+<10:15> <Lua> lythanhphu killed TheAsianSanta with SniperRifle
+<10:20> <Lua> kys killed Monsieur with MG
+<10:23> <Lua> TheAsianSanta killed Simon with Falcon
+<10:35> <Lua> TheAsianSanta killed kys with Falcon
+<10:38> <Lua> lythanhphu killed Simon with SniperRifle
+<10:43> <Lua> TheAsianSanta killed kys with M4
+<10:47> <Lua> lythanhphu killed Monsieur with SniperRifle
+<10:48> <Lua> TheAsianSanta killed Simon with M4
+<11:02> <Lua> lythanhphu killed kys with SniperRifle
+<11:11> <Lua> Monsieur killed TheAsianSanta with MG
+<11:16> <Lua> lythanhphu killed kys with SniperRifle
+<11:25> <Lua> TheAsianSanta killed Monsieur with M4
+<11:28> <Lua> lythanhphu killed kys with SniperRifle
+<11:44> <Lua> lythanhphu killed kys with SniperRifle
+<11:46> <Lua> lythanhphu killed Simon with SniperRifle
+<11:56> <Lua> lythanhphu killed kys with SniperRifle
+<12:01> <Lua> Simon killed Monsieur with M4
+<12:08> <Lua> Monsieur killed Simon with Falcon
+<12:26> <Lua> kys killed Monsieur with Rocket
+<12:29> <Lua> lythanhphu killed TheAsianSanta with SniperRifle
+<12:42> <Lua> lythanhphu killed TheAsianSanta with SniperRifle
+<13:01> <Lua> TheAsianSanta killed Monsieur with Shotgun
+<13:02> <Lua> lythanhphu killed TheAsianSanta with SniperRifle
+<13:06> <Lua> lythanhphu killed kys with SniperRifle
+<13:11> <Lua> lythanhphu killed TheAsianSanta with SniperRifle
+<13:13> <Lua> lythanhphu killed Simon with SniperRifle
+<13:23> <Lua> Monsieur killed Simon with AG36
+<13:30> <Lua> kys killed Monsieur with AG36
+<13:32> <Lua> lythanhphu killed TheAsianSanta with SniperRifle
+<13:45> <Lua> lythanhphu killed Simon with SniperRifle
+<13:50> <Lua> lythanhphu killed TheAsianSanta with SniperRifle
+<13:56> <Lua> lythanhphu killed Simon with SniperRifle
+<13:57> <Lua> Monsieur killed lythanhphu with SniperRifle
+<14:19> <Lua> lythanhphu killed TheAsianSanta with AG36
+<14:23> <Lua> kys killed Simon with AG36
+<14:31> <Lua> kys killed TheAsianSanta with AG36
+<14:43> <Lua> Simon killed TheAsianSanta with M249
+<14:52> <Lua> kys killed Simon with AG36
+<14:55> <Lua> lythanhphu killed TheAsianSanta with AG36Grenade
+<15:15> <Lua> Monsieur killed TheAsianSanta with SniperRifle
+<15:28> <Lua> kys killed TheAsianSanta with AG36
+<15:32> <Lua> TheAsianSanta killed Simon with Falcon
+<15:44> <Lua> lythanhphu killed TheAsianSanta with AG36Grenade
+<15:53> <Lua> lythanhphu killed TheAsianSanta with AG36Grenade
+<16:05> <Lua> Simon killed Monsieur with P90
+<16:22> <Lua> TheAsianSanta killed Simon with OICW
+<16:44> <Lua> lythanhphu killed Monsieur with AG36
+<16:54> <Lua> lythanhphu killed Simon with AG36Grenade
+<17:09> <Lua> lythanhphu killed Monsieur with AG36
+<17:22> <Lua> Monsieur killed lythanhphu with Rocket
+<17:38> <Lua> lythanhphu killed Simon with M4
+<17:44> <Lua> lythanhphu killed Monsieur with M4
+<17:51> <Lua> TheAsianSanta killed kys with M249
+<18:04> <Lua> Monsieur killed lythanhphu with Rocket
+<18:10> <Lua> Simon killed kys with MG
+<18:18> <Lua> kys killed lythanhphu with Falcon
+<18:23> <Lua> TheAsianSanta killed Simon with M249
+<18:25> <Lua> kys killed Monsieur with Falcon
+<18:39> <Lua> kys killed Monsieur with Falcon
+<18:39> <Lua> Monsieur killed kys with Rocket
+<18:48> <Lua> lythanhphu killed TheAsianSanta with OICW
+<18:52> <Lua> Simon killed Monsieur with AG36
+<19:02> <Lua> TheAsianSanta killed lythanhphu with P90
+<19:05> <Lua> Monsieur killed TheAsianSanta with Machete
+<19:09> <Lua> lythanhphu killed Monsieur with Falcon
+<19:09> <Lua> Simon killed lythanhphu with AG36
+<19:23> <Lua> Monsieur killed kys with MP5
+<19:33> <Lua> Monsieur killed TheAsianSanta with MP5
+<19:37> <Lua> lythanhphu killed kys with AG36
+<19:48> <Lua> TheAsianSanta killed kys with M249
+<19:59> <Lua> lythanhphu killed Monsieur with Rocket
+<20:03> <Lua> Simon killed kys with AG36
+<20:28> <Lua> kys killed Simon with M249
+<20:55> <Lua> lythanhphu killed Monsieur with Rocket
+<21:11> <Lua> lythanhphu killed TheAsianSanta with VehicleRocket
+<21:23> <Lua> kys killed TheAsianSanta with MG
+<21:30> <Lua> TheAsianSanta killed Simon with Falcon
+<21:44> <Lua> kys killed Monsieur with MG
+<21:54> <Lua> kys killed lythanhphu with M249
+<21:55> <Lua> kys killed itself
+<22:02> <Lua> kys killed Simon with Falcon
+<22:05> <Lua> TheAsianSanta killed Monsieur with Rocket
+<22:18> <Lua> kys killed TheAsianSanta with MG
+<22:24> <Lua> TheAsianSanta killed Simon with Falcon
+<22:25> <Lua> lythanhphu killed Monsieur with AG36Grenade
+<22:29> <Lua> lythanhphu killed TheAsianSanta with AG36Grenade
+<22:36> <Lua> Simon killed kys with MG
+<22:38> <Lua> Monsieur killed lythanhphu with Falcon
+<22:41> <Lua> Simon killed TheAsianSanta with MG
+<22:54> <Lua> lythanhphu killed Monsieur with AG36
+<22:54> <Lua> kys killed lythanhphu with M4
+<23:04> <Lua> Simon killed TheAsianSanta with MG
+<23:04> <Lua> lythanhphu killed kys with AG36
+<23:06> <Lua> lythanhphu killed Monsieur with AG36
+<23:14> <Lua> TheAsianSanta killed lythanhphu with Falcon
+<23:18> <Lua> kys killed Monsieur with Falcon
+<23:21> <Lua> kys killed Simon with Falcon
+<23:29> <Lua> lythanhphu killed kys with VehicleRocket
+<23:32> <Lua> TheAsianSanta killed Monsieur with AG36
+<23:44> <Lua> lythanhphu killed Monsieur with VehicleRocket
+<23:46> <Lua> TheAsianSanta killed kys with AG36
+<23:58> <Lua> Monsieur killed Simon with AG36
+<24:09> <Lua> Simon killed kys with Falcon
+<24:26> <Lua> lythanhphu killed kys with Falcon
+<24:35> <Lua> kys killed Monsieur with Falcon
+<24:42> <Lua> Simon killed Monsieur with MG
+<24:50> <Lua> TheAsianSanta killed Simon with SniperRifle
+<25:01> <Lua> TheAsianSanta killed Monsieur with SniperRifle
+<25:15> <Lua> TheAsianSanta killed Simon with AG36
+<25:17> <Lua> lythanhphu killed kys with AG36Grenade
+<25:21> <Lua> lythanhphu killed Simon with AG36Grenade
+<25:39> <Lua> lythanhphu killed Simon with AG36
+<26:05> <Lua> Monsieur killed Simon with Rocket
+<26:06> <Lua> TheAsianSanta killed Monsieur with SniperRifle
+<26:17> <Lua> kys killed TheAsianSanta with OICW
+<26:29> <Lua> lythanhphu killed TheAsianSanta with M4
+<26:38> <Lua> Monsieur killed lythanhphu with Falcon
+<26:51> <Lua> kys killed Simon with SniperRifle
+<26:54> <Lua> TheAsianSanta killed Monsieur with Shotgun
+<26:57> <Lua> lythanhphu killed kys with P90
+<27:02> <Lua> Simon killed TheAsianSanta with Rocket
+<27:12> <Lua> TheAsianSanta killed Simon with Falcon
+<27:13> <Lua> lythanhphu killed Monsieur with P90
+<27:16> <Lua> kys killed TheAsianSanta with Falcon
+<27:31> <Lua> lythanhphu killed Simon with SniperRifle
+<27:36> <Lua> lythanhphu killed Monsieur with SniperRifle
+<27:51> <Lua> Simon killed kys with Falcon
+<27:59> <Lua> TheAsianSanta killed Simon with AG36
+<28:04> <Lua> kys killed Monsieur with Falcon
+<28:08> <Lua> lythanhphu killed Simon with SniperRifle
+<28:19> <Lua> TheAsianSanta killed Monsieur with AG36
+<28:34> <Lua> lythanhphu killed Monsieur with SniperRifle
+<29:06> <Lua> TheAsianSanta killed Monsieur with AG36
+<29:18> <Lua> lythanhphu killed Monsieur with SniperRifle
+<29:19> <Lua> Simon killed TheAsianSanta with AG36
+<29:32> <Lua> TheAsianSanta killed kys with M4
+<29:40> <Lua> kys killed Simon with Falcon
+<29:48> ================================================================================
+<29:48> == Statistics                                                                 ==
+<29:48> ================================================================================
+<29:48> Servername: intek's Server
+<29:48> Levelname: mp_surf
+<29:48> ================================================================================
+<29:48> == Player:                                                                    ==
+<29:48> ================================================================================
+<29:48> Player: (((Game Master)))
+<29:48>    nKill=0
+<29:48>    nHeadshot=0
+<29:48>    nBulletShot=0
+<29:48>    nSelfKill=0
+<29:48>    nBulletHit=0
+<29:48> Player: lythanhphu
+<29:48>    nKill=77
+<29:48>    nHeadshot=2
+<29:48>    nBulletShot=0
+<29:48>    nSelfKill=1
+<29:48>    nBulletHit=0
+<29:48> Player: TheAsianSanta
+<29:48>    nKill=45
+<29:48>    nHeadshot=3
+<29:48>    nBulletShot=0
+<29:48>    nSelfKill=0
+<29:48>    nBulletHit=0
+<29:48> Player: Monsieur
+<29:48>    nKill=26
+<29:48>    nHeadshot=1
+<29:48>    nBulletShot=0
+<29:48>    nSelfKill=0
+<29:48>    nBulletHit=0
+<29:48> Player: kys
+<29:48>    nKill=38
+<29:48>    nHeadshot=8
+<29:48>    nBulletShot=0
+<29:48>    nSelfKill=2
+<29:48>    nBulletHit=0
+<29:48> Player: Simon
+<29:48>    nKill=18
+<29:48>    nHeadshot=2
+<29:48>    nBulletShot=0
+<29:48>    nSelfKill=0
+<29:48>    nBulletHit=0
+<29:48> ================================================================================
+<29:48> == Teams:                                                                     ==
+<29:48> ================================================================================
+<29:48> Team: players
+<29:48>    nKill=204
+<29:48>    nHeadshot=16
+<29:48>    nBulletShot=0
+<29:48>    nSelfKill=3
+<29:48>    nBulletHit=0
+<29:48> ================================================================================
+<29:50> <Lua> Map: mp_airstrip (Assault)
+<29:56> Loading ...s\characters\pmodels\hero\hero_mp.ccg
+<29:56> WARNING: Connectivity warning: there are 1 open edges (3550 closed, 2367 faces, 0 planes, 0 vertices)
+<29:56> ---------------------- Loading level Levels/mp_airstrip, mission ASSAULT --------------------------
+<29:56> Loading materials ...<29:56>  5 mats loaded
+<29:56> Loading Objects\Vehicles\buggy\piece10.cgf
+<29:56> Loading Objects\Vehicles\buggy\piece06.cgf
+<29:56> Loading Objects\Vehicles\buggy\piece02.cgf
+<29:56> Loading Objects\Vehicles\buggy\buggy_debris02.cgf
+<29:56> Loading Objects\vehicles\buggy\buggy_debris01.cgf
+<29:56> Loading Objects\vehicles\buggy\buggy_debris06.cgf
+<29:56> Loading Objects\vehicles\buggy\buggy_debris12.cgf
+<29:56> Loading Objects\glm\ww2_indust_set1\GK_Wall\wall_piece01.cgf
+<29:56> Loading Objects\Vehicles\buggy\piece04.cgf
+<29:56> Loading Objects\Buildings\M03\Fort_ruin\concreterubble01.cgf
+<29:56> Loading Objects\Buildings\M03\Fort_ruin\concreterubble02.cgf
+<29:56> Loaded 205 Particle Effects from Effects\Explosions.prt.
+<29:56> Loaded 31 Particle Effects from Effects\Water.prt.
+<29:56> Loaded 29 Particle Effects from Effects\Smoke.prt.
+<29:56> Loaded 3 Particle Effects from Effects\Blood.prt.
+<29:56> Loading Objects\Vehicles\buggy\buggy_debris03.cgf
+<29:56> Loading Objects\Weapons\effects\concrete_piece.cgf
+<29:56> Loading Objects\Vehicles\buggy\buggy_debris07.cgf
+<29:56> Loaded 96 Particle Effects from Effects\Bullet.prt.
+<29:56> Loaded 16 Particle Effects from Effects\Misc.prt.
+<29:56> Loaded 28 Particle Effects from Effects\Fire.prt.
+<29:56> Loaded 0 Particle Effects from Levels/mp_airstrip/particles.lst.
+<29:56> Loading Objects\Natural\leafy_green_paradise\lgp_palm_bush_a.cgf
+<29:56> Loading Objects\Natural\leafy_green_paradise\lgp_forestpalm_short_a.cgf
+<29:56> Loading Objects\Natural\leafy_green_paradise\lgp_forestpalm_c.cgf
+<29:56> Loading Objects\Natural\basic_jungle\bsc_tree_small_curved_a.cgf
+<29:56> Loading Objects\Natural\basic_jungle\bsc_tree_small_curved_a_lod1.cgf
+<29:56> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_a.cgf
+<29:56> Loading Objects\Natural\leafy_green_paradise\lgp_canopytree_cb.cgf
+<29:56> Loading Objects\Natural\leafy_green_paradise\lgp_canopytree_cb_lod1.cgf
+<29:56> Loading Objects\Natural\leafy_green_paradise\lgp_canopytree_ca.cgf
+<29:56> Loading Objects\Natural\leafy_green_paradise\lgp_canopytree_ca_lod1.cgf
+<29:56> Loading Objects\Natural\ancient_jungle\anc_ceiba_tree_a.cgf
+<29:57> Loading Objects\Natural\ancient_jungle\anc_ceiba_tree_a_lod1.cgf
+<29:57> Loading Objects\Natural\ancient_jungle\anc_ceiba_tree_lianas.cgf
+<29:57> Loading Objects\Natural\Trees\oldforest_tree_a1_falling.cgf
+<29:57> WARNING: Unknown physical material mat_wood_light
+<29:57> Loading Objects\Natural\coastal_objects\cst_bush_beach.cgf
+<29:57> Loading Objects\Natural\coastal_objects\cst_bush_large.cgf
+<29:57> Loading Objects\Natural\Trees\oldforest_mosstree.cgf
+<29:57> Loading Objects\Natural\basic_jungle\bsc_stump_a.cgf
+<29:57> Loading Objects\Natural\swamp_set\sw_crvd_tree.cgf
+<29:57> Loading Objects\Natural\swamp_set\sw_crvd_tree_b.cgf
+<29:57> Loading Objects\Natural\leafy_green_paradise\lgp_fernbush_ba.cgf
+<29:57> Loading brushes ... 
+<29:57> Loading Objects\Outdoor\merc_structures\barrack_mp.cgf
+<29:57> Loading Objects\natural\basic_jungle\bsc_junglerock_static_b.cgf
+<29:57> Loading Objects\glm\ww2_indust_set1\steps\steptrim_base100z.cgf
+<29:57> Loading Objects\glm\shipwreck\railings\rail2_straight_200xb02.cgf
+<29:57> Loading Objects\glm\ww2style\Cliffsied\COW\CF_runway_arch.cgf
+<29:57> Loading Objects\Outdoor\lights\runwaylight.cgf
+<29:57> Loading Objects\natural\basic_jungle\bsc_junglerock_static_a.cgf
+<29:57> Loading Objects\glm\ww2_indust_set1\steps\steps2x2y1z_ww2_closed.cgf
+<29:57> Loading Objects\Natural\coastal_objects\cst_square_rock_arc_A.cgf
+<29:57> Loading Objects\Outdoor\barriers\fence_4m.cgf
+<29:57> Loading Objects\Natural\coastal_objects\cst_rock_darker.cgf
+<29:57> Loading Objects\Natural\coastal_objects\cst_rock_darker_lod1.cgf
+<29:57> Loading Objects\Natural\coastal_objects\cst_rock_darker_lod2.cgf
+<29:57> Loading Objects\Outdoor\towers\coa_sniper_tower_railing.cgf
+<29:57> Loading Objects\Indoor\boxes\Barrel\barrel_oil.cgf
+<29:57> Loading Objects\Indoor\boxes\Barrel\barrel_oil_lod1.cgf
+<29:57> Loading Objects\natural\basic_jungle\bsc_jungle_rock_d.cgf
+<29:57> Loading Objects\natural\basic_jungle\bsc_jungle_rock_d_lod1.cgf
+<29:57> Loading Objects\glm\shipwreck\railings\rail2_straight_400x.cgf
+<29:57> WARNING: Error: CTexMan::LoadFromImage: Generate normal map from compressed texture: 'textures/glm/shipwreck/shipwreck_floor1.dds', Loading of compressed bump-maps is not supported. If you want the engine to compress it please use _ddn_cct postfix in texture name
+<29:57> Loading Objects\glm\ww2style\Cliffsied\COW\CF_GK_CB_200W01.cgf
+<29:57> Loading Objects\Outdoor\islanders_structures\board_a.cgf
+<29:57> Loading Objects\Outdoor\barriers\fence_pole.cgf
+<29:57> Loading Objects\glm\ww2_indust_set1\steps\steptrim_corner100z.cgf
+<29:57> Loading Objects\Outdoor\merc_structures\barrack_roof_piece04.cgf
+<29:57> Loading Objects\Indoor\boxes\crates\crate_covered.cgf
+<29:57> Loading Objects\indoor\furniture\beds\bunk.cgf
+<29:57> Loading Objects\Outdoor\lights\streetlight_single.cgf
+<29:57> Loading Objects\editor\colllision_50x50.cgf
+<29:57> Loading Objects\glm\shipwreck\railings\rail_straight_100x.cgf
+<29:57> Loading Objects\Outdoor\merc_structures\barrack_roof_piece03.cgf
+<29:57> Loading Objects\Outdoor\barriers\fence_4m_hole.cgf
+<29:57> Loading Objects\Buildings\M03\Fort_ruin\fruin_canon_base.cgf
+<29:57> Loading Objects\Outdoor\islanders_structures\hut_onwater__GK_Plate_4m_2.cgf
+<29:57> Loading Objects\Outdoor\barriers\cncrwall3m.cgf
+<29:57> Loading Objects\glm\ww2_indust_set1\steps\steptrim_base100z_b.cgf
+<29:57> Loading Objects\multiplayer\pickupSpot\Assault_pickupSpot.cgf
+<29:57> Loading Objects\glm\ww2_indust_set1\WALKWAYS\catwalk_4x4y_B.cgf
+<29:57> Loading Objects\indoor\furniture\cabinets\lockerww2.cgf
+<29:57> Loading Objects\glm\ww2_indust_set1\steps\steptrim_corner150z.cgf
+<29:57> Loading Objects\outdoor\human_camp\wire_straight.cgf
+<29:57> Loading Objects\Outdoor\merc_structures\barrack_wo_roof.cgf
+<29:57> Loading Objects\Outdoor\islanders_structures\wood_fence_destroyable.cgf
+<29:57> Loading Objects\Outdoor\merc_structures\barrack_roof_piece01.cgf
+<29:57> Loading Objects\Outdoor\merc_structures\fueltanks\fueltank_large.cgf
+<29:57> Loading Objects\Outdoor\merc_structures\fueltanks\fueltank_large_lod1.cgf
+<29:57> Loading Objects\Outdoor\merc_structures\fueltanks\fueltank_large_lod2.cgf
+<29:57> Loading Objects\glm\shipwreck\railings\rail2_straight_200x.cgf
+<29:57> Loading Objects\Buildings\Hangar_GK_V01_door.cgf
+<29:57> Loading Objects\Indoor\boxes\Barrel\barrel_oil_shipwreck.cgf
+<29:57> Loading Objects\Indoor\boxes\Barrel\barrel_oil_shipwreck_lod1.cgf
+<29:57> Loading Objects\Indoor\boxes\Barrel\barrel_oil_shipwreck_lod2.cgf
+<29:57> Loading Objects\glm\ww2style\pipe\ww2_gk_p4_400_b.cgf
+<29:57> Loading Objects\Outdoor\barriers\fence_8m.cgf
+<29:57> Loading Objects\Buildings\M03\Fort_ruin\fruin_canonplace_700dia.cgf
+<29:57> Loading Objects\Buildings\M03\Fort_ruin\fruin_canonplace_700dia_lod1.cgf
+<29:57> Loading Objects\Buildings\M03\Fort_ruin\fruin_canonplace_700dia_lod2.cgf
+<29:57> Loading Objects\Outdoor\barriers\fence3m.cgf
+<29:57> Loading Objects\Indoor\boxes\Barrel\barrel_oil_02.cgf
+<29:57> Loading Objects\Indoor\boxes\Barrel\barrel_oil_02_lod1.cgf
+<29:57> Loading Objects\Indoor\boxes\Barrel\barrel_oil_02_lod2.cgf
+<29:57> Loading Objects\outdoor\human_camp\camo_net.cgf
+<29:57> Loading Objects\indoor\boxes\crates\container_closed_red.cgf
+<29:57> Loading Objects\outdoor\fortifications\sandbags_round_high.cgf
+<29:57> Loading Objects\outdoor\fortifications\sandbags_round_high_lod1.cgf
+<29:57> Loading Objects\glm\ww2_indust_set1\railings\railGK_RE3.cgf
+<29:57> Loading Objects\Outdoor\barriers\emergency_barrier_B.cgf
+<29:57> Loading Objects\Outdoor\barriers\emergency_barrier_B_lod1.cgf
+<29:57> Loading Objects\Natural\basic_jungle\bsc_jungle_rock_e.cgf
+<29:57> Error: Brush/StatObj @ 547.7,1254.8,79.8 is too large or invalid
+<29:57> Loading Objects\outdoor\human_camp\camo_net_side.cgf
+<29:57> Loading Objects\Outdoor\barriers\fence_collision.cgf
+<29:57> Error: Brush/StatObj @ 1099.2,816.0,79.8 is too large or invalid
+<29:57> Loading Objects\multiplayer\buildables\bunkerbig_base.cgf
+<29:57> Loading Objects\indoor\furniture\misc\bamboocarpet.cgf
+<29:57> Loading Objects\outdoor\fortifications\sandbags_corner_lod1.cgf
+<29:57> Loading Objects\outdoor\signs\os_head_quarters.cgf
+<29:57> Loading Objects\glm\shipwreck\railings\rail_steps_gk_5m_np.cgf
+<29:57> Loading Objects\indoor\furniture\cabinets\lockerww2_broken.cgf
+<29:57> Loading Objects\indoor\lights\hanging_destroyed.cgf
+<29:57> Loading Objects\outdoor\human_camp\wire_bend_90.cgf
+<29:57> Loading Objects\outdoor\human_camp\sandbag_structure_4.cgf
+<29:57> Loading Objects\Outdoor\barriers\cncrwall_10m_flipped.cgf
+<29:57> Loading Objects\Outdoor\fortifications\bunkerold_wall4x.cgf
+<29:57> Loading Objects\glm\shipwreck\railings\rail_steps02.cgf
+<29:57> Loading Objects\indoor\boxes\crates\container_closed_hole.cgf
+<29:57> Loading Objects\outdoor\fortifications\sandbag_straight_med_lod1.cgf
+<29:58> Loading Objects\vehicles\humvee\humvee_debris14.cgf
+<29:58> Loading Objects\glm\ww2_indust_set1\steps\steptrim_base150x100z.cgf
+<29:58> Loading Objects\Outdoor\barriers\gateframe.cgf
+<29:58> Loading Objects\Indoor\boxes\crates\container_closed_blue.cgf
+<29:58> Loading Objects\Outdoor\barriers\cncrwall_5m_flipped.cgf
+<29:58> Loading Objects\Natural\basic_jungle\bsc_dead_tree.cgf
+<29:58> Loading Objects\glm\shipwreck\railings\rail2_turn.cgf
+<29:58> Loading Objects\vehicles\buggy\buggy_debris12.cgf
+<29:58> Loading Objects\multiplayer\buildables\bunkersmall_base.cgf
+<29:58> Loading Objects\Outdoor\merc_structures\sat_dish\sat_dish_correct.cgf
+<29:58> Loading Objects\Outdoor\merc_structures\sat_dish\sat_dish_correct_lod1.cgf
+<29:58> Loading Objects\Outdoor\merc_structures\sat_dish\sat_dish_correct_lod2.cgf
+<29:58> Loading Objects\Outdoor\human_camp\burned_ground.cgf
+<29:58> Loading Objects\multiplayer\buildables\bridge_base.cgf
+<29:58> Loading Objects\vehicles\buggy\buggy_debris01.cgf
+<29:58> Loading Objects\outdoor\fortifications\sandbags_corner.cgf
+<29:58> Loading Objects\outdoor\fortifications\sandbags_corner_lod1.cgf
+<29:58> Loading Objects\indoor\boxes\crates\stash.cgf
+<29:58> Loading Objects\Natural\basic_jungle\bsc_jungle_rock_f.cgf
+<29:58> Loading Objects\glm\ww2_indust_set1\railings\railGK_RE2.cgf
+<29:58> Loading Objects\glm\ww2_indust_set1\steps\stepsntrim_5x45y2z_ww2.cgf
+<29:58> Loading Objects\glm\ww2_indust_set1\steps\stepsntrim_5x45y2z_ww2_lod1.cgf
+<29:58> Loading Objects\glm\shipwreck\railings\rail2_straight_200xbrokena.cgf
+<29:58> Loading Objects\glm\shipwreck\railings\rail_straight_200x.cgf
+<29:58> Loading Objects\natural\coastal_objects\cst_square_rock_a.cgf
+<29:58> Loading Objects\natural\coastal_objects\cst_square_rock_a_lod1.cgf
+<29:58> Loading Objects\natural\coastal_objects\cst_square_rock_a_lod2.cgf
+<29:58> Loading Objects\glm\shipwreck\railings\rail_straight_100xb.cgf
+<29:58> Error: Brush/StatObj @ 612.8,1247.6,98.0 is too large or invalid
+<29:58> Loading Objects\Buildings\Hangar_GK_V01.cgf
+<29:58> Loading Objects\glm\ww2style\Cliffsied\COW\CF_runway_side.cgf
+<29:58> Error: Brush/StatObj @ 851.5,573.8,98.0 is too large or invalid
+<29:58> Loading Objects\Indoor\boxes\crates\crate2.cgf
+<29:58> Loading Objects\vehicles\humvee\humvee_debris06.cgf
+<29:58> Loading Objects\Outdoor\islanders_structures\hut_small.cgf
+<29:58> Loading Objects\Outdoor\islanders_structures\hut_small_lod1.cgf
+<29:58> Loading Objects\outdoor\barriers\storage_cell.cgf
+<29:58> Loading Objects\indoor\boxes\crates\animal_crate.cgf
+<29:58> Loading Objects\glm\ww2style\Cliffsied\COW\CF_runway_rim.cgf
+<29:58> Loading Objects\outdoor\human_camp\tent3.cgf
+<29:58> Error: Brush/StatObj @ 810.6,625.0,79.8 is too large or invalid
+<29:58> Error: Brush/StatObj @ 510.8,1294.0,111.9 is too large or invalid
+<29:58> Loading Objects\glm\shipwreck\railings\rail_turn90.cgf
+<29:58> Loading Objects\Buildings\M03\compound_area\coa_radio_tower_piece4_correct.cgf
+<29:58> Loading Objects\Outdoor\barriers\cncrwall_10m.cgf
+<29:58> Loading Objects\Outdoor\towers\coa_sniper_tower_without_railing.cgf
+<29:58> Loading Objects\Outdoor\towers\coa_sniper_tower_without_railing_lod1.cgf
+<29:58> Loading Objects\Outdoor\towers\coa_sniper_tower_without_railing_lod2.cgf
+<29:58> Loading Objects\buildings\m06\smallbuilding.cgf
+<29:58> Loading objects\glm\shipwreck\stuff\SWR_MP_plank.cgf
+<29:58> Loading Objects\Buildings\M03\Fort_ruin\fruin_canonplace_700dia_onestair.cgf
+<29:58> Loading Objects\Buildings\M03\Fort_ruin\fruin_canonplace_700dia_onestair_lod1.cgf
+<29:58> Loading Objects\Buildings\M03\Fort_ruin\fruin_canonplace_700dia_onestair_lod2.cgf
+<29:58> Loading Objects\Vehicles\buggy\buggy_burnt_out.cgf
+<29:58> Loading Objects\Outdoor\merc_structures\sat_dish\sat_dish.cgf
+<29:58> Loading Objects\vehicles\c130\c130ground_interior.cgf
+<29:58> Loading Objects\vehicles\c130\c130ground_interior_lod1.cgf
+<29:58> Loading Objects\vehicles\c130\c130ground_interior_lod2.cgf
+<29:58> Loading Objects\Outdoor\merc_structures\barrack_roof_piece02.cgf
+<29:58> Loading Objects\glm\shipwreck\railings\rail_steps_gk_5m.cgf
+<29:58> Loading Objects\glm\shipwreck\railings\rail2_straight_100x.cgf
+<29:58> Loading Objects\Outdoor\islanders_structures\hut_large_grassroof_SD.cgf
+<29:58> Loading Objects\Outdoor\islanders_structures\hut_large_grassroof.cgf
+<29:58> Error: Brush/StatObj @ 445.7,1301.2,93.7 is too large or invalid
+<29:58> Loading Objects\buildings\m06\m06_bigbuilding_short_mp.cgf
+<29:58> Loading Objects\outdoor\merc_structures\hpad_base.cgf
+<29:58> Loading Objects\buildings\m06\m06_garage_closed.cgf
+<29:58> Loading Objects\decals\grime02.cgf
+<29:58> Loading Objects\outdoor\fortifications\sandbags_withhole.cgf
+<29:58> Loading Objects\outdoor\fortifications\sandbags_withhole_lod1.cgf
+<29:58> Loading Objects\glm\shipwreck\railings\rail2broken1.cgf
+<29:58> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_superlarge.cgf
+<29:58> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_superlarge_lod1.cgf
+<29:58> Loading Objects\outdoor\merc_structures\fueltanks\fueltank_superlarge_lod2.cgf
+<29:58> Loading Objects\Buildings\M03\compound_area\coa_radio_tower.cgf
+<29:58> Loading Objects\Buildings\M03\compound_area\coa_radio_tower_lod1.cgf
+<29:58> Loading Objects\Buildings\M03\compound_area\coa_radio_tower_lod2.cgf
+<29:58> Loading Objects\glm\ww2style\Cliffsied\COW\CF_runway_top.cgf
+<29:58> Loading Objects\outdoor\merc_structures\voltagehouse.cgf
+<29:58> Loading Objects\Outdoor\barriers\fence_2m.cgf
+<29:58> Loading Objects\outdoor\merc_structures\hpad_landing1.cgf
+<29:58> Loading Objects\glm\ww2style\pipe\ww2_gk_p4_100_mb_cap01.cgf
+<29:58> Loading Objects\multiplayer\buildings\walkway_support.cgf
+<29:58> Loading Objects\editor\colllision_100x50.cgf
+<29:58> Loading Objects\indoor\boxes\crates\container_closed.cgf
+<29:58> Loading Objects\vehicles\humvee\humvee_debris01.cgf
+<29:58> Loading Objects\Outdoor\merc_structures\barrack_roof_piece07.cgf
+<29:58> Loading Objects\glm\ww2_indust_set1\railings\railGK_RE1.cgf
+<29:58> Error: Brush/StatObj @ 1050.1,1011.0,79.8 is too large or invalid
+<29:58> Loading Objects\Outdoor\human_camp\camo_net_half.cgf
+<29:58> Loading Objects\Outdoor\islanders_structures\hut_medium_grassroof.cgf
+<29:58> Loading Objects\vehicles\humvee\humvee_debris09.cgf
+<29:58> Loading Objects\Outdoor\human_camp\cratemetalclosesmall.cgf
+<29:58> Loading Objects\indoor\boxes\crates\container_damaged.cgf
+<29:58> Error: Brush/StatObj @ 1140.1,764.8,98.0 is too large or invalid
+<29:58> Loading Objects\glm\shipwreck\railings\rail_end.cgf
+<29:58> Loading Objects\Outdoor\islanders_structures\board_broken.cgf
+<29:58> Loading Objects\Indoor\boxes\crates\crate3.cgf
+<29:58> Error: Brush/StatObj @ 718.1,632.0,95.5 is too large or invalid
+<29:58> Loading Objects\Buildings\M03\compound_area\coa_radio_tower_piece1_correct.cgf
+<29:58> Loading Objects\Buildings\M03\Fort_ruin\fruin_canon_body.cgf
+<29:58> Loading Objects\outdoor\towers\cncr_watch_tower_mp.cgf
+<29:58> Loading Objects\Outdoor\human_camp\campfireb.cgf
+<29:58> Loading Objects\vehicles\buggy\buggy_wreck.cgf
+<29:58> Loading Objects\vehicles\buggy\buggy_wreck_lod1.cgf
+<29:58> Loading Objects\vehicles\buggy\buggy_wreck_lod2.cgf
+<29:58> Error: Brush/StatObj @ 1091.0,959.8,98.0 is too large or invalid
+<29:58> Error: Brush/StatObj @ 783.2,624.3,77.3 is too large or invalid
+<29:58> Loading Objects\glm\ww2_indust_set1\WALKWAYS\catwalk_45xBB_M.cgf
+<29:58> Loading Objects\Vehicles\zero_aircraft\zero_junglewreck_front.cgf
+<29:58> Loading Objects\Vehicles\zero_aircraft\zero_junglewreck_front_lod1.cgf
+<29:58> Loading Objects\Vehicles\zero_aircraft\zero_junglewreck_front_lod2.cgf
+<29:58> Brushes loaded: 150 models, 1270 instances, 3 custom materials
+<29:58> Loading lightmaps ...
+<29:58>  [AISYSTEM] Initialization started.
+<29:58>  [AISYSTEM] Initialization finished.
+<29:58> Loading Objects\Weapons\aw50\aw50_bind.cgf
+<29:58> Loading Objects\Weapons\aw50\aw50_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [551 agains 551], there is no sense to use it
+<29:59> Loading CCGF_CACHE\objects\weapons\aw50\aw50.ccg
+<29:59> <Lua>  BasicWeapon Init SniperRifle
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_AW50_fpv.cgf
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_AW50_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init SniperRifle
+<29:59> Loading Objects\Weapons\pancor\pancor_bind.cgf
+<29:59> Loading Objects\Weapons\pancor\pancor_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [512 agains 512], there is no sense to use it
+<29:59> Loading ...CHE\objects\weapons\pancor\pancor.ccg
+<29:59> <Lua>  BasicWeapon Init Shotgun
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_Pancor_fpv.cgf
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_Pancor_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init Shotgun
+<29:59> Loading Objects\Weapons\M249\M249_bind.cgf
+<29:59> Loading Objects\Weapons\M249\M249_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [801 agains 801], there is no sense to use it
+<29:59> Loading CCGF_CACHE\objects\weapons\m249\m249.ccg
+<29:59> ERROR: CControllerManager::LoadAnimation: file loading Objects\Weapons\M249\.\m249_fidget11.caf file not found
+<29:59> ERROR: CControllerManager::LoadAnimation: file loading Objects\Weapons\M249\.\m249_fidget12.caf file not found
+<29:59> <Lua>  BasicWeapon Init M249
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_m4_fpv.cgf
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_m4_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init M249
+<29:59> <Lua>  BasicWeapon Init MutantMG
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_coverrl_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init MutantMG
+<29:59> Loading Objects\Weapons\wrench\wrench_bind.cgf
+<29:59> Loading Objects\Weapons\wrench\wrench_bind_lod1.cgf
+<29:59> Loading ...CHE\objects\weapons\wrench\wrench.ccg
+<29:59> <Lua>  BasicWeapon Init Wrench
+<29:59> <Lua>  BasicWeapon Init Wrench
+<29:59> Loading Objects\Weapons\health_pack\healthpack_bind.cgf
+<29:59> Loading ...s\weapons\health_pack\health_pack.ccg
+<29:59> WARNING: Connectivity warning: there are 152 open edges (1652 closed, 1152 faces, 0 planes, 0 vertices)
+<29:59> <Lua>  BasicWeapon Init MedicTool
+<29:59> <Lua>  BasicWeapon Init MedicTool
+<29:59> <Lua>  BasicWeapon Init MG
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_MG_fpv.cgf
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_MG_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init MG
+<29:59> Loading Objects\Weapons\MutantShotgun\MutantShotgun_bind.cgf
+<29:59> <Lua>  BasicWeapon Init MutantShotgun
+<29:59> <Lua>  BasicWeapon Init MutantShotgun
+<29:59> <Lua>  BasicWeapon Init VehicleMountedRocket
+<29:59> <Lua>  BasicWeapon Init VehicleMountedRocket
+<29:59> <Lua>  BasicWeapon Init VehicleMountedMG
+<29:59> <Lua>  BasicWeapon Init VehicleMountedMG
+<29:59> Loading Objects\Weapons\de\de_bind.cgf
+<29:59> Loading Objects\Weapons\de\de_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [394 agains 394], there is no sense to use it
+<29:59> Loading CCGF_CACHE\objects\weapons\de\de.ccg
+<29:59> <Lua>  BasicWeapon Init Falcon
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_DE_fpv.cgf
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_DE_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init Falcon
+<29:59> Loading objects\weapons\machete\machete_bind.cgf
+<29:59> Loading objects\weapons\machete\machete_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [395 agains 395], there is no sense to use it
+<29:59> Loading ...E\objects\weapons\machete\machete.ccg
+<29:59> <Lua>  BasicWeapon Init Machete
+<29:59> <Lua>  BasicWeapon Init Machete
+<29:59> <Lua>  BasicWeapon Init VehicleMountedRocketMG
+<29:59> <Lua>  BasicWeapon Init VehicleMountedRocketMG
+<29:59> Loading Objects\Weapons\ag36\ag36_bind.cgf
+<29:59> Loading Objects\Weapons\ag36\ag36_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [1054 agains 1054], there is no sense to use it
+<29:59> Loading CCGF_CACHE\objects\weapons\ag36\ag36.ccg
+<29:59> <Lua>  BasicWeapon Init AG36
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_ag36_fpv.cgf
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_ag36_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init AG36
+<29:59> Loading Objects\Weapons\P90\P90_bind.cgf
+<29:59> Loading Objects\Weapons\P90\P90_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [627 agains 627], there is no sense to use it
+<29:59> Loading CCGF_CACHE\objects\weapons\p90\p90.ccg
+<29:59> <Lua>  BasicWeapon Init P90
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_P90_fpv.cgf
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_p90_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init P90
+<29:59> Loading Objects\Weapons\MP5\MP5_bind.cgf
+<29:59> Loading Objects\Weapons\MP5\MP5_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [757 agains 757], there is no sense to use it
+<29:59> Loading CCGF_CACHE\objects\weapons\mp5\mp5.ccg
+<29:59> <Lua>  BasicWeapon Init MP5
+<29:59> <Lua>  BasicWeapon Init MP5
+<29:59> <Lua>  BasicWeapon Init EngineerTool
+<29:59> <Lua>  BasicWeapon Init EngineerTool
+<29:59> Loading Objects\Weapons\oicw\oicw_bind.cgf
+<29:59> Loading Objects\Weapons\oicw\oicw_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [771 agains 771], there is no sense to use it
+<29:59> Loading CCGF_CACHE\objects\weapons\oicw\oicw.ccg
+<29:59> <Lua>  BasicWeapon Init OICW
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_OICW_fpv.cgf
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_OICW_tpv.cgf
+<29:59> <Lua>  BasicWeapon Init OICW
+<29:59> <Lua>  BasicWeapon Init VehicleMountedAutoMG
+<29:59> <Lua>  BasicWeapon Init VehicleMountedAutoMG
+<29:59> Loading Objects\Weapons\scouttool\scouttool_bind.cgf
+<29:59> Loading ...jects\weapons\scouttool\scouttool.ccg
+<29:59> <Lua>  BasicWeapon Init ScoutTool
+<29:59> <Lua>  BasicWeapon Init ScoutTool
+<29:59> Loading Objects\Weapons\RL\RL_bind.cgf
+<29:59> Loading Objects\Weapons\RL\RL_bind_lod1.cgf
+<29:59> Loading CCGF_CACHE\objects\weapons\rl\rl.ccg
+<29:59> WARNING: Connectivity warning: there are 31 open edges (25 closed, 27 faces, 0 planes, 0 vertices)
+<29:59> <Lua>  BasicWeapon Init RL
+<29:59> <Lua>  BasicWeapon Init RL
+<29:59> Loading Objects\Weapons\M4\M4_bind.cgf
+<29:59> Loading Objects\Weapons\M4\M4_bind_lod1.cgf
+<29:59> WARNING: CStatObj::LoadLowLODs: Low lod model contains too many polygons comparing to full LOD model [735 agains 735], there is no sense to use it
+<29:59> Loading CCGF_CACHE\objects\weapons\m4\m4.ccg
+<29:59> <Lua>  BasicWeapon Init M4
+<29:59> <Lua>  BasicWeapon Init M4
+<29:59> Loading Objects\Weapons\Shocker\Shocker_bind.cgf
+<29:59> Loading ...E\objects\weapons\shocker\shocker.ccg
+<29:59> <Lua>  BasicWeapon Init Shocker
+<29:59> Loading Objects\Weapons\Muzzle_flash\mf_shocker_fpv.cgf
+<29:59> <Lua>  BasicWeapon Init Shocker
+<29:59> Loading Objects\Weapons\coverrl\coverrl_bind.cgf
+<29:59> <Lua>  BasicWeapon Init COVERRL
+<29:59> <Lua>  BasicWeapon Init COVERRL
+<29:59> <Lua>  BasicWeapon Init Mortar
+<29:59> <Lua>  BasicWeapon Init Mortar
+<29:59> Loading objects\weapons\Rockets\rocket.cgf
+<30:00> Loading objects\weapons\Grenades\Grenade.cgf
+<30:00> Loading Objects\Pickups\explosive\explosive_nocount.cgf
+<30:00> Loading objects\natural\rocks\throwrock.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100905.2,100025.3)-(-99243.7,-99092.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100905.2,100025.3)-(-99243.7,-99092.7,-99972.6))
+<30:00> Loading Objects\multiplayer\buildables\wall_building.cgf
+<30:00> Loading Objects\multiplayer\buildables\wall_built.cgf
+<30:00> Loading Objects\multiplayer\buildables\wall_repairing.cgf
+<30:00> Loading Objects\multiplayer\buildables\wall_destroyed.cgf
+<30:00> Loading Objects\Outdoor\towers\sniper_tower_ladder.cgf
+<30:00> Loading Objects\Editor\invisiblebox.cgf
+<30:00> Loading objects\multiplayer\flagbase\flagbase_captured.cgf
+<30:00> Loading objects\multiplayer\flagbase\flagbase_inactive.cgf
+<30:00> Loading objects\multiplayer\flagbase\flagbase_active.cgf
+<30:00> Loading objects\multiplayer\flagbase\flagbase_capturing.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100647.3,100989.0,100028.8)-(-99350.6,-99009.0,-99969.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100647.3,100989.0,100028.8)-(-99350.6,-99009.0,-99969.1))
+<30:00> Loading Objects\multiplayer\buildables\unbuilt_tower.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100782.7,100960.6,100028.1)-(-99215.2,-99037.3,-99969.8))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100782.7,100960.6,100028.1)-(-99215.2,-99037.3,-99969.8))
+<30:00> Loading Objects\multiplayer\buildables\bridge_building.cgf
+<30:00> Loading Objects\multiplayer\buildables\bridge_built.cgf
+<30:00> Loading Objects\multiplayer\buildables\bridge_repair.cgf
+<30:00> Loading Objects\multiplayer\buildables\bridge_destroyed.cgf
+<30:00> Loading Objects\Pickups\universal_ammo\universal_ammo.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100489.7,100970.5,100034.4)-(-99508.2,-99027.4,-99963.5))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100489.7,100970.5,100034.4)-(-99508.2,-99027.4,-99963.5))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100706.0,101056.7,100029.0)-(-99292.0,-98941.2,-99969.0))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100706.0,101056.7,100029.0)-(-99292.0,-98941.2,-99969.0))
+<30:00> Loading Objects\multiplayer\buildables\unbuilt_wall.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100745.2,100924.8,100027.8)-(-99252.7,-99073.1,-99970.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100745.2,100924.8,100027.8)-(-99252.7,-99073.1,-99970.1))
+<30:00> Loading Objects\Weapons\minigun\tripod_minigun_base.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100646.6,100954.1,100028.6)-(-99351.3,-99043.8,-99969.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100646.6,100954.1,100028.6)-(-99351.3,-99043.8,-99969.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100488.3,100994.9,100030.8)-(-99509.6,-99003.0,-99967.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100488.3,100994.9,100030.8)-(-99509.6,-99003.0,-99967.1))
+<30:00> Loading Objects\multiplayer\buildables\gatewood_building.cgf
+<30:00> Loading Objects\multiplayer\buildables\gatewood_built.cgf
+<30:00> Loading Objects\multiplayer\buildables\gatewood_repair.cgf
+<30:00> Loading Objects\multiplayer\buildables\gatewood_destroyedB.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100466.1,100987.4,100030.7)-(-99531.8,-99010.5,-99967.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100466.1,100987.4,100030.7)-(-99531.8,-99010.5,-99967.3))
+<30:00> Loading Objects\multiplayer\buildables\unbuilt_gatewood.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100644.7,100986.3,100037.1)-(-99353.3,-99011.6,-99960.9))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100644.7,100986.3,100037.1)-(-99353.3,-99011.6,-99960.9))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100708.2,101057.5,100029.0)-(-99289.7,-98940.5,-99969.0))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100708.2,101057.5,100029.0)-(-99289.7,-98940.5,-99969.0))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100900.2,100025.3)-(-99243.7,-99097.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100900.2,100025.3)-(-99243.7,-99097.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100733.0,100963.1,100026.1)-(-99265.0,-99034.8,-99971.8))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100733.0,100963.1,100026.1)-(-99265.0,-99034.8,-99971.8))
+<30:00> Loading Objects\multiplayer\buildables\bunkerbig_building.cgf
+<30:00> Loading Objects\multiplayer\buildables\bunkerbig_mweapon_built.cgf
+<30:00> Loading Objects\multiplayer\buildables\bunkerbig_repair.cgf
+<30:00> Loading Objects\multiplayer\buildables\bunkerbig_destroyed.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100518.5,100978.5,100030.0)-(-99479.4,-99019.4,-99967.9))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100518.5,100978.5,100030.0)-(-99479.4,-99019.4,-99967.9))
+<30:00> Loading objects\Vehicles\Humvee\Humvee_wreck.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100752.3,100876.1,100026.5)-(-99245.6,-99121.8,-99971.4))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100752.3,100876.1,100026.5)-(-99245.6,-99121.8,-99971.4))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100915.2,100025.3)-(-99243.7,-99082.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100915.2,100025.3)-(-99243.7,-99082.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100663.2,100972.2,100028.7)-(-99334.7,-99025.7,-99969.2))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100663.2,100972.2,100028.7)-(-99334.7,-99025.7,-99969.2))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100479.3,100995.2,100030.8)-(-99518.6,-99002.7,-99967.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100479.3,100995.2,100030.8)-(-99518.6,-99002.7,-99967.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100643.6,100988.0,100028.6)-(-99354.3,-99009.9,-99969.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100643.6,100988.0,100028.6)-(-99354.3,-99009.9,-99969.3))
+<30:00> Loading Objects\multiplayer\buildables\tower_building.cgf
+<30:00> Loading Objects\multiplayer\buildables\tower_built.cgf
+<30:00> Loading Objects\multiplayer\buildables\tower_repair.cgf
+<30:00> Loading Objects\multiplayer\buildables\tower_destroyed.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100461.7,100988.0,100030.8)-(-99536.3,-99009.9,-99967.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100461.7,100988.0,100030.8)-(-99536.3,-99009.9,-99967.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100925.2,100025.3)-(-99243.7,-99072.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100925.2,100025.3)-(-99243.7,-99072.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100752.0,100902.8,100025.7)-(-99246.0,-99095.1,-99972.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100752.0,100902.8,100025.7)-(-99246.0,-99095.1,-99972.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100930.2,100025.3)-(-99243.7,-99067.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100930.2,100025.3)-(-99243.7,-99067.7,-99972.6))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100522.8,100976.0,100030.0)-(-99475.1,-99021.9,-99967.9))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100522.8,100976.0,100030.0)-(-99475.1,-99021.9,-99967.9))
+<30:00> Loading objects\Vehicles\glider\glider.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100733.0,100882.6,100026.2)-(-99264.9,-99115.3,-99971.7))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100733.0,100882.6,100026.2)-(-99264.9,-99115.3,-99971.7))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100650.1,100957.7,100028.6)-(-99347.8,-99040.2,-99969.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100650.1,100957.7,100028.6)-(-99347.8,-99040.2,-99969.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100652.7,100961.5,100028.6)-(-99345.2,-99036.5,-99969.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100652.7,100961.5,100028.6)-(-99345.2,-99036.5,-99969.3))
+<30:00> Loading ...iplayer\flagbase\mp_flag_animated.ccg
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100514.2,100981.0,100030.0)-(-99483.7,-99016.9,-99967.9))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100514.2,100981.0,100030.0)-(-99483.7,-99016.9,-99967.9))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100664.3,100971.8,100028.6)-(-99333.6,-99026.1,-99969.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100664.3,100971.8,100028.6)-(-99333.6,-99026.1,-99969.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100753.1,100928.6,100025.8)-(-99244.8,-99069.3,-99972.2))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100753.1,100928.6,100025.8)-(-99244.8,-99069.3,-99972.2))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100741.5,100924.9,100027.9)-(-99256.5,-99073.0,-99970.0))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100741.5,100924.9,100027.9)-(-99256.5,-99073.0,-99970.0))
+<30:00> Loading Objects\multiplayer\buildables\bunkerbig_mweapon_building.cgf
+<30:00> Loading Objects\multiplayer\buildables\bunkerbig_mweapon_repair.cgf
+<30:00> Loading Objects\multiplayer\buildables\bunkerbig_mweapon_destroyed.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100486.2,100971.8,100042.8)-(-99511.7,-99026.1,-99955.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100486.2,100971.8,100042.8)-(-99511.7,-99026.1,-99955.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100753.2,100918.5,100025.6)-(-99244.7,-99079.5,-99972.4))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100753.2,100918.5,100025.6)-(-99244.7,-99079.5,-99972.4))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100394.1,101078.5,100032.1)-(-99603.8,-98919.4,-99965.8))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100394.1,101078.5,100032.1)-(-99603.8,-98919.4,-99965.8))
+<30:00> Loading Objects\multiplayer\buildables\unbuilt_bunker.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100459.0,100979.3,100030.8)-(-99538.9,-99018.6,-99967.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100459.0,100979.3,100030.8)-(-99538.9,-99018.6,-99967.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100751.7,100885.2,100026.5)-(-99246.2,-99112.7,-99971.4))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100751.7,100885.2,100026.5)-(-99246.2,-99112.7,-99971.4))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100520.1,100973.5,100031.6)-(-99477.8,-99024.5,-99966.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100520.1,100973.5,100031.6)-(-99477.8,-99024.5,-99966.3))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100814.3,100867.1,100026.4)-(-99183.6,-99130.8,-99971.5))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100814.3,100867.1,100026.4)-(-99183.6,-99130.8,-99971.5))
+<30:00> Loading Objects\multiplayer\buildables\unbuilt_mountedweapon.cgf
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100477.5,100991.8,100030.8)-(-99520.5,-99006.1,-99967.1))
+<30:00> GetEntitiesInBox: too many cells requested by Game (262144, (100477.5,100991.8,100030.8)-(-99520.5,-99006.1,-99967.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100676.4,101065.3,100028.9)-(-99321.5,-98932.7,-99969.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100676.4,101065.3,100028.9)-(-99321.5,-98932.7,-99969.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100489.8,100991.5,100030.7)-(-99508.1,-99006.5,-99967.2))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100489.8,100991.5,100030.7)-(-99508.1,-99006.5,-99967.2))
+<30:01> Loading Objects\Outdoor\merc_structures\ladder_6m.cgf
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100672.7,101066.3,100028.6)-(-99325.2,-98931.7,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100672.7,101066.3,100028.6)-(-99325.2,-98931.7,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100812.3,100868.0,100026.4)-(-99185.6,-99130.0,-99971.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100812.3,100868.0,100026.4)-(-99185.6,-99130.0,-99971.6))
+<30:01> Loading Objects\multiplayer\buildables\mountedweapon_building.cgf
+<30:01> Loading Objects\multiplayer\buildables\mountedweapon_base.cgf
+<30:01> Loading Objects\multiplayer\buildables\mountedweapon_repair.cgf
+<30:01> Loading Objects\multiplayer\buildables\mountedweapon_destroyed.cgf
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100753.7,100875.3,100026.5)-(-99244.2,-99122.6,-99971.5))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100753.7,100875.3,100026.5)-(-99244.2,-99122.6,-99971.5))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100920.2,100025.3)-(-99243.7,-99077.7,-99972.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100920.2,100025.3)-(-99243.7,-99077.7,-99972.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100732.9,100883.3,100026.4)-(-99265.0,-99114.6,-99971.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100732.9,100883.3,100026.4)-(-99265.0,-99114.6,-99971.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100935.2,100025.3)-(-99243.7,-99062.7,-99972.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100935.2,100025.3)-(-99243.7,-99062.7,-99972.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100653.7,100961.2,100028.6)-(-99344.2,-99036.7,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100653.7,100961.2,100028.6)-(-99344.2,-99036.7,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100713.6,101065.2,100028.6)-(-99284.3,-98932.7,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100713.6,101065.2,100028.6)-(-99284.3,-98932.7,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100651.5,100959.6,100028.5)-(-99346.5,-99038.3,-99969.5))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100651.5,100959.6,100028.5)-(-99346.5,-99038.3,-99969.5))
+<30:01> Loading Objects\Outdoor\merc_structures\ladder_3m.cgf
+<30:01> Loading objects\Vehicles\Buggy\Buggy_wreck.cgf
+<30:01> Loading objects\Vehicles\Buggy\Buggy_wreck_lod1.cgf
+<30:01> Loading objects\Vehicles\Buggy\Buggy_wreck_lod2.cgf
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.3,100884.3,100026.5)-(-99243.6,-99113.6,-99971.5))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.3,100884.3,100026.5)-(-99243.6,-99113.6,-99971.5))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100660.8,100968.3,100028.6)-(-99337.2,-99029.6,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100660.8,100968.3,100028.6)-(-99337.2,-99029.6,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100464.3,100978.3,100030.9)-(-99533.6,-99019.6,-99967.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100464.3,100978.3,100030.9)-(-99533.6,-99019.6,-99967.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100713.6,101072.3,100028.6)-(-99284.3,-98925.6,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100713.6,101072.3,100028.6)-(-99284.3,-98925.6,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100657.2,100964.8,100028.6)-(-99340.7,-99033.2,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100657.2,100964.8,100028.6)-(-99340.7,-99033.2,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100486.3,100969.9,100034.3)-(-99511.6,-99028.0,-99963.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100486.3,100969.9,100034.3)-(-99511.6,-99028.0,-99963.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100752.2,100937.0,100025.9)-(-99245.7,-99061.0,-99972.0))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100752.2,100937.0,100025.9)-(-99245.7,-99061.0,-99972.0))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100741.3,100924.0,100027.8)-(-99256.7,-99073.9,-99970.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100741.3,100924.0,100027.8)-(-99256.7,-99073.9,-99970.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100510.7,100981.8,100030.3)-(-99487.2,-99016.2,-99967.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100510.7,100981.8,100030.3)-(-99487.2,-99016.2,-99967.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100421.6,101036.1,100030.8)-(-99576.3,-98961.8,-99967.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100421.6,101036.1,100030.8)-(-99576.3,-98961.8,-99967.1))
+<30:01> Loading Objects\multiplayer\buildables\barrier_building.cgf
+<30:01> Loading Objects\multiplayer\buildables\barrier_built.cgf
+<30:01> Loading Objects\multiplayer\buildables\barrier_repairing.cgf
+<30:01> Loading Objects\multiplayer\buildables\barrier_destroyed.cgf
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100511.3,100979.8,100030.3)-(-99486.6,-99018.1,-99967.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100511.3,100979.8,100030.3)-(-99486.6,-99018.1,-99967.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100661.6,100971.1,100028.7)-(-99336.3,-99026.8,-99969.2))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100661.6,100971.1,100028.7)-(-99336.3,-99026.8,-99969.2))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.0,100965.8,100025.6)-(-99244.0,-99032.1,-99972.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.0,100965.8,100025.6)-(-99244.0,-99032.1,-99972.3))
+<30:01> Loading Objects\Indoor\boxes\boxes\crate.cgf
+<30:01> Loading Objects\Outdoor\barriers\cncrwall_10m.cgf
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100752.6,100930.0,100025.8)-(-99245.3,-99068.0,-99972.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100752.6,100930.0,100025.8)-(-99245.3,-99068.0,-99972.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100752.7,100919.7,100025.5)-(-99245.2,-99078.2,-99972.4))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100752.7,100919.7,100025.5)-(-99245.2,-99078.2,-99972.4))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100713.6,101058.1,100028.6)-(-99284.3,-98939.8,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100713.6,101058.1,100028.6)-(-99284.3,-98939.8,-99969.3))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100664.7,100973.5,100029.0)-(-99333.2,-99024.5,-99969.0))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100664.7,100973.5,100029.0)-(-99333.2,-99024.5,-99969.0))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100753.2,100911.5,100025.6)-(-99244.7,-99086.5,-99972.4))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100753.2,100911.5,100025.6)-(-99244.7,-99086.5,-99972.4))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100753.2,100910.1,100025.5)-(-99244.7,-99087.8,-99972.4))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100753.2,100910.1,100025.5)-(-99244.7,-99087.8,-99972.4))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100426.8,101033.4,100030.9)-(-99571.1,-98964.5,-99967.0))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100426.8,101033.4,100030.9)-(-99571.1,-98964.5,-99967.0))
+<30:01> Loading Objects\multiplayer\buildables\unbuilt_roadblocker.cgf
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100416.2,101031.3,100030.8)-(-99581.7,-98966.6,-99967.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100416.2,101031.3,100030.8)-(-99581.7,-98966.6,-99967.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100398.1,101079.3,100032.1)-(-99599.8,-98918.6,-99965.9))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100398.1,101079.3,100032.1)-(-99599.8,-98918.6,-99965.9))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100394.3,101079.4,100032.2)-(-99603.6,-98918.5,-99965.7))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100394.3,101079.4,100032.2)-(-99603.6,-98918.5,-99965.7))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100650.0,100960.1,100028.3)-(-99348.0,-99037.8,-99969.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100650.0,100960.1,100028.3)-(-99348.0,-99037.8,-99969.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100910.2,100025.3)-(-99243.7,-99087.7,-99972.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100754.2,100910.2,100025.3)-(-99243.7,-99087.7,-99972.6))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100735.0,100882.6,100034.7)-(-99262.9,-99115.3,-99963.2))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100735.0,100882.6,100034.7)-(-99262.9,-99115.3,-99963.2))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100417.6,101034.0,100030.8)-(-99580.3,-98964.0,-99967.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100417.6,101034.0,100030.8)-(-99580.3,-98964.0,-99967.1))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100706.6,101058.0,100029.0)-(-99291.3,-98940.0,-99969.0))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100706.6,101058.0,100029.0)-(-99291.3,-98940.0,-99969.0))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100672.8,101064.3,100037.1)-(-99325.2,-98933.6,-99960.8))
+<30:01> GetEntitiesInBox: too many cells requested by Game (262144, (100672.8,101064.3,100037.1)-(-99325.2,-98933.6,-99960.8))
+<30:01> [AISYSTEM] Verifying BAI file version
+<30:01> [AISYSTEM] Reading BBOX
+<30:01> [AISYSTEM] Reading node descriptors
+<30:01> [AISYSTEM] Creating graph nodes
+<30:01> [AISYSTEM] Reading vertex list
+<30:01> [AISYSTEM] Reading links
+<30:01> [AISYSTEM] Reconnecting links (might take some time:)
+<30:01> [AISYSTEM] Verifying BAI file version
+<30:01> [AISYSTEM] Reading BBOX
+<30:01> [AISYSTEM] Reading node descriptors
+<30:01> [AISYSTEM] Creating graph nodes
+<30:01> [AISYSTEM] Reading vertex list
+<30:01> [AISYSTEM] Reading links
+<30:01> [AISYSTEM] Reconnecting links (might take some time:)
+<30:01> [AISYSTEM] Triangulation finished.
+<30:01>  Level mp_airstrip loaded in 5.464 seconds
+<30:01> Precaching level ... <30:01> done
+<30:01> Loading objects\indoor\lights\beam.cgf
+<30:06> System Shutdown
+<30:06> Releasing UI System...
